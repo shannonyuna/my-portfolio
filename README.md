@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
@@ -98,3 +99,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 # app
 # app
 # my-app
+=======
+# my-portfolio
+>>>>>>> f4c07078a51997ce8fcea6ca5fe733f0d2fe717a
