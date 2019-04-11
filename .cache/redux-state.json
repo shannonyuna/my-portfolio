@@ -1,0 +1,2213 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "30c006fcf2ee448ae1e8f8d0301dea47",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "72338feed35ddefed3717f60d4dd9506",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "44006a79b20e56f3b8178969e0c92863",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2c77ef6f341ff96c1a146154a807cc60",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "e05816530ce05998133d4b6d4f69c14f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3f4644b4ad990eedd4c66a206844d0e1",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b1214cd8b0b6b8c30a224be67cfadd94",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.10",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "174933509c5fe03259dade5d60e02be5",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "3ebec222-d631-5b1d-81ef-05a38bfd3df3": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-source-filesystem",
+      "id": "3ebec222-d631-5b1d-81ef-05a38bfd3df3",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.27",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "5xe41k6xv4zo",
+        "acessToken": "102e223765915bf359d0e33f298f29dae4a435309b555c6af65bd6d594dd1e84",
+        "name": "images",
+        "path": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b08947c7871a6f43dbcdbb7867b209a0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-transformer-sharp",
+      "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
+      "name": "gatsby-transformer-sharp",
+      "version": "2.1.17",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType",
+        "onPreExtractQueries"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-transformer-sharp",
+      "packageJson": {
+        "name": "gatsby-transformer-sharp",
+        "description": "Gatsby transformer plugin for images using Sharp",
+        "version": "2.1.17",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.33"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.0-beta.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "c19ccfbe5381838ac6bb509fca03686c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84d6154d-4241-556c-a679-cc8339cac100": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-sharp",
+      "id": "84d6154d-4241-556c-a679-cc8339cac100",
+      "name": "gatsby-plugin-sharp",
+      "version": "2.0.30",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-sharp",
+      "packageJson": {
+        "name": "gatsby-plugin-sharp",
+        "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
+        "version": "2.0.30",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "image",
+          "sharp"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "async",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "imagemin",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-mozjpeg",
+            "version": "^8.0.0"
+          },
+          {
+            "name": "imagemin-pngquant",
+            "version": "^6.0.0"
+          },
+          {
+            "name": "imagemin-webp",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "mini-svg-data-uri",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "potrace",
+            "version": "^2.1.1"
+          },
+          {
+            "name": "probe-image-size",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          },
+          {
+            "name": "svgo",
+            "version": "^0.7.2"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "1db9a4f015e213796a71ff4bd53b0734",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "112c12f8-b222-509b-abe0-dfe93a905df9": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-manifest",
+      "id": "112c12f8-b222-509b-abe0-dfe93a905df9",
+      "name": "gatsby-plugin-manifest",
+      "version": "2.0.24",
+      "pluginOptions": {
+        "plugins": [],
+        "name": "gatsby-starter-default",
+        "short_name": "starter",
+        "start_url": "/",
+        "background_color": "#663399",
+        "theme_color": "#663399",
+        "display": "minimal-ui",
+        "icon": "src/images/gatsby-icon.png"
+      },
+      "nodeAPIs": [
+        "onPostBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-manifest",
+      "packageJson": {
+        "name": "gatsby-plugin-manifest",
+        "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
+        "version": "2.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "icons",
+          "manifest.webmanifest",
+          "progressive-web-app",
+          "pwa"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "sharp",
+            "version": "^0.21.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.15"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "464ea7ffe97490c28183b00e600c9e62",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "76c217989883cd78330df8149e72d4ae",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "A simple starter to get up and developing quickly with Gatsby",
+        "version": "0.1.0",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.2.5"
+          },
+          {
+            "name": "gatsby-image",
+            "version": "^2.0.34"
+          },
+          {
+            "name": "gatsby-plugin-manifest",
+            "version": "^2.0.24"
+          },
+          {
+            "name": "gatsby-plugin-offline",
+            "version": "^2.0.25"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.10"
+          },
+          {
+            "name": "gatsby-plugin-sharp",
+            "version": "^2.0.30"
+          },
+          {
+            "name": "gatsby-source-contentful",
+            "version": "^1.3.54"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^2.0.27"
+          },
+          {
+            "name": "gatsby-transformer-sharp",
+            "version": "^2.1.17"
+          },
+          {
+            "name": "prop-types",
+            "version": "^15.7.2"
+          },
+          {
+            "name": "react",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.8.4"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-stripe-checkout",
+            "version": "^2.6.3"
+          },
+          {
+            "name": "stripe",
+            "version": "^6.28.0"
+          },
+          {
+            "name": "styled-components",
+            "version": "^3.3.3"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.16.4"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "aa04af73cd2c20c8bbc525f73032c11e",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "236a1825-0670-5652-bd83-f7102fb01bb0": {
+      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "id": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.10",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ba3472028eb2b090b4abcf49dc01de2a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "description": "Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.",
+        "author": "@gatsbyjs"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-11T02:02:09.874Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2d1b3661f14be0ba17cf34e8787c71a5",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "60c26afe-900f-5383-9e99-f2139bf2a17e": {
+      "id": "60c26afe-900f-5383-9e99-f2139bf2a17e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "26018449c6ea15a191bd1c221be79d3e",
+        "type": "Directory",
+        "description": "Directory \"src/images\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "relativePath": "",
+      "extension": "",
+      "size": 714,
+      "prettySize": "714 B",
+      "modifiedTime": "2019-04-11T01:59:42.000Z",
+      "accessTime": "2019-04-11T02:02:13.000Z",
+      "changeTime": "2019-04-11T01:59:42.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src",
+      "base": "images",
+      "ext": "",
+      "name": "images",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 21,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641591,
+      "blocks": 0,
+      "atimeMs": 1554948133000,
+      "mtimeMs": 1554947982000,
+      "ctimeMs": 1554947982000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T02:02:13.000Z",
+      "mtime": "2019-04-11T01:59:42.000Z",
+      "ctime": "2019-04-11T01:59:42.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "9c151909-71e8-51a2-a1ae-a15df58f16d2": {
+      "id": "9c151909-71e8-51a2-a1ae-a15df58f16d2",
+      "children": [
+        "1fd8c43a-1044-57a0-a31f-959cde20f7d2"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-icon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/gatsby-icon.png",
+      "relativePath": "gatsby-icon.png",
+      "extension": "png",
+      "size": 21212,
+      "prettySize": "21.2 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "gatsby-icon.png",
+      "ext": ".png",
+      "name": "gatsby-icon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641593,
+      "blocks": 48,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "a5e5fa92-8de0-594b-b7c0-58e2efb01e0b": {
+      "id": "a5e5fa92-8de0-594b-b7c0-58e2efb01e0b",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d66ea36d22adcb9ea29d256cb30b3889",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/logo-designcode.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-designcode.svg",
+      "relativePath": "logo-designcode.svg",
+      "extension": "svg",
+      "size": 2215,
+      "prettySize": "2.21 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-designcode.svg",
+      "ext": ".svg",
+      "name": "logo-designcode",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641594,
+      "blocks": 8,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "7080295a-18a0-5864-8dc5-e864ba7e20a1": {
+      "id": "7080295a-18a0-5864-8dc5-e864ba7e20a1",
+      "children": [
+        "7371a9f3-335c-5696-bee4-96f218d2f353"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-figma.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-figma.png",
+      "relativePath": "logo-figma.png",
+      "extension": "png",
+      "size": 10090,
+      "prettySize": "10.1 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-figma.png",
+      "ext": ".png",
+      "name": "logo-figma",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641595,
+      "blocks": 24,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "2f70fde5-bdec-5639-93cf-921f51f47fe6": {
+      "id": "2f70fde5-bdec-5639-93cf-921f51f47fe6",
+      "children": [
+        "27f8e056-2f4b-59d8-92db-8ae96fbf3323"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "12167a912ccf152f2efb78a74aa32880",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-framer.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-framer.png",
+      "relativePath": "logo-framer.png",
+      "extension": "png",
+      "size": 9489,
+      "prettySize": "9.49 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-framer.png",
+      "ext": ".png",
+      "name": "logo-framer",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641596,
+      "blocks": 24,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "cfe03520-e63c-56da-9896-db51896e9cee": {
+      "id": "cfe03520-e63c-56da-9896-db51896e9cee",
+      "children": [
+        "a948f485-758c-5e28-8b95-6d55ba064f67"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-react.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-react.png",
+      "relativePath": "logo-react.png",
+      "extension": "png",
+      "size": 9739,
+      "prettySize": "9.74 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-react.png",
+      "ext": ".png",
+      "name": "logo-react",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641598,
+      "blocks": 24,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "2da6ba00-87c9-589d-bb75-90a12b9a9b68": {
+      "id": "2da6ba00-87c9-589d-bb75-90a12b9a9b68",
+      "children": [
+        "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5584256565a502bb2012921097dcab6b",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-invision.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-invision.png",
+      "relativePath": "logo-invision.png",
+      "extension": "png",
+      "size": 1815,
+      "prettySize": "1.81 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-invision.png",
+      "ext": ".png",
+      "name": "logo-invision",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641597,
+      "blocks": 8,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "b481115e-7f5e-5fd8-8da7-015c99dc4181": {
+      "id": "b481115e-7f5e-5fd8-8da7-015c99dc4181",
+      "children": [
+        "75d1e781-3076-5e0e-ac31-93466b93a582"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a8abb0b21cd1a5af83d5a11853c2e302",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-sketch.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-sketch.png",
+      "relativePath": "logo-sketch.png",
+      "extension": "png",
+      "size": 4800,
+      "prettySize": "4.8 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-sketch.png",
+      "ext": ".png",
+      "name": "logo-sketch",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641599,
+      "blocks": 16,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "ade14eac-3a3c-5a1b-9e32-f1e10d34007a": {
+      "id": "ade14eac-3a3c-5a1b-9e32-f1e10d34007a",
+      "children": [
+        "1f65145b-20a5-5b25-8a83-145c576548fa"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-studio.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-studio.png",
+      "relativePath": "logo-studio.png",
+      "extension": "png",
+      "size": 2123,
+      "prettySize": "2.12 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-studio.png",
+      "ext": ".png",
+      "name": "logo-studio",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641600,
+      "blocks": 8,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "1fd8c43a-1044-57a0-a31f-959cde20f7d2": {
+      "id": "1fd8c43a-1044-57a0-a31f-959cde20f7d2",
+      "children": [],
+      "parent": "9c151909-71e8-51a2-a1ae-a15df58f16d2",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "7371a9f3-335c-5696-bee4-96f218d2f353": {
+      "id": "7371a9f3-335c-5696-bee4-96f218d2f353",
+      "children": [],
+      "parent": "7080295a-18a0-5864-8dc5-e864ba7e20a1",
+      "internal": {
+        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "27f8e056-2f4b-59d8-92db-8ae96fbf3323": {
+      "id": "27f8e056-2f4b-59d8-92db-8ae96fbf3323",
+      "children": [],
+      "parent": "2f70fde5-bdec-5639-93cf-921f51f47fe6",
+      "internal": {
+        "contentDigest": "12167a912ccf152f2efb78a74aa32880",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "a948f485-758c-5e28-8b95-6d55ba064f67": {
+      "id": "a948f485-758c-5e28-8b95-6d55ba064f67",
+      "children": [],
+      "parent": "cfe03520-e63c-56da-9896-db51896e9cee",
+      "internal": {
+        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3": {
+      "id": "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3",
+      "children": [],
+      "parent": "2da6ba00-87c9-589d-bb75-90a12b9a9b68",
+      "internal": {
+        "contentDigest": "5584256565a502bb2012921097dcab6b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "75d1e781-3076-5e0e-ac31-93466b93a582": {
+      "id": "75d1e781-3076-5e0e-ac31-93466b93a582",
+      "children": [],
+      "parent": "b481115e-7f5e-5fd8-8da7-015c99dc4181",
+      "internal": {
+        "contentDigest": "a8abb0b21cd1a5af83d5a11853c2e302",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "1f65145b-20a5-5b25-8a83-145c576548fa": {
+      "id": "1f65145b-20a5-5b25-8a83-145c576548fa",
+      "children": [],
+      "parent": "ade14eac-3a3c-5a1b-9e32-f1e10d34007a",
+      "internal": {
+        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8fa245a5-bb02-54d9-bc83-734a67607c25": {
+      "id": "8fa245a5-bb02-54d9-bc83-734a67607c25",
+      "children": [
+        "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-swift.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-swift.png",
+      "relativePath": "logo-swift.png",
+      "extension": "png",
+      "size": 6035,
+      "prettySize": "6.04 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-swift.png",
+      "ext": ".png",
+      "name": "logo-swift",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641601,
+      "blocks": 16,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "321a7e8a-deeb-5900-9bcf-c6a173a31f55": {
+      "id": "321a7e8a-deeb-5900-9bcf-c6a173a31f55",
+      "children": [
+        "b0037951-0e04-51a6-b453-c82df5609072"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-xcode.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-xcode.png",
+      "relativePath": "logo-xcode.png",
+      "extension": "png",
+      "size": 19137,
+      "prettySize": "19.1 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-xcode.png",
+      "ext": ".png",
+      "name": "logo-xcode",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641602,
+      "blocks": 40,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb": {
+      "id": "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb",
+      "children": [],
+      "parent": "8fa245a5-bb02-54d9-bc83-734a67607c25",
+      "internal": {
+        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b0037951-0e04-51a6-b453-c82df5609072": {
+      "id": "b0037951-0e04-51a6-b453-c82df5609072",
+      "children": [],
+      "parent": "321a7e8a-deeb-5900-9bcf-c6a173a31f55",
+      "internal": {
+        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "af99e9d0-2339-5770-bfea-6f5a376ebf64": {
+      "id": "af99e9d0-2339-5770-bfea-6f5a376ebf64",
+      "children": [
+        "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d737c672cf7193dbf709b825ea681376",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper.jpg",
+      "relativePath": "wallpaper.jpg",
+      "extension": "jpg",
+      "size": 96517,
+      "prettySize": "96.5 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "wallpaper.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641603,
+      "blocks": 192,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "15709a7d-d903-5904-bafd-4d0c30aefb5e": {
+      "id": "15709a7d-d903-5904-bafd-4d0c30aefb5e",
+      "children": [
+        "0f01c614-053f-5cf9-9b18-7d960cb69b1d"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper2.jpg",
+      "relativePath": "wallpaper2.jpg",
+      "extension": "jpg",
+      "size": 119124,
+      "prettySize": "119 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "wallpaper2.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641604,
+      "blocks": 240,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1": {
+      "id": "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1",
+      "children": [],
+      "parent": "af99e9d0-2339-5770-bfea-6f5a376ebf64",
+      "internal": {
+        "contentDigest": "d737c672cf7193dbf709b825ea681376",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "0f01c614-053f-5cf9-9b18-7d960cb69b1d": {
+      "id": "0f01c614-053f-5cf9-9b18-7d960cb69b1d",
+      "children": [],
+      "parent": "15709a7d-d903-5904-bafd-4d0c30aefb5e",
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f4685d00-b510-59ed-946f-fb196c255418": {
+      "id": "f4685d00-b510-59ed-946f-fb196c255418",
+      "children": [
+        "a0ad256e-58aa-5278-8bdc-782cbc4b2266"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/gatsby-astronaut.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/gatsby-astronaut.png",
+      "relativePath": "gatsby-astronaut.png",
+      "extension": "png",
+      "size": 167273,
+      "prettySize": "167 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "gatsby-astronaut.png",
+      "ext": ".png",
+      "name": "gatsby-astronaut",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641592,
+      "blocks": 328,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "62932958-420f-50e4-b975-92a16e99f5a2": {
+      "id": "62932958-420f-50e4-b975-92a16e99f5a2",
+      "children": [
+        "77fb53d7-4aaa-57f2-9cba-475cd1f70edc"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper3.jpg",
+      "relativePath": "wallpaper3.jpg",
+      "extension": "jpg",
+      "size": 129941,
+      "prettySize": "130 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "wallpaper3.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641605,
+      "blocks": 256,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "c330d51c-761f-52e0-977b-88f2c8abf833": {
+      "id": "c330d51c-761f-52e0-977b-88f2c8abf833",
+      "children": [
+        "b1148c76-fabf-508e-aaa9-62e1beae1351"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "576eaabc2d1c0df2d4cdc7127a9e7626",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper4.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper4.jpg",
+      "relativePath": "wallpaper4.jpg",
+      "extension": "jpg",
+      "size": 148370,
+      "prettySize": "148 kB",
+      "modifiedTime": "2019-03-24T20:30:13.000Z",
+      "accessTime": "2019-04-11T01:02:18.000Z",
+      "changeTime": "2019-04-11T01:02:18.000Z",
+      "birthTime": "2019-03-24T20:30:13.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "wallpaper4.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper4",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8641606,
+      "blocks": 296,
+      "atimeMs": 1554944538000,
+      "mtimeMs": 1553459413000,
+      "ctimeMs": 1554944538000,
+      "birthtimeMs": 1553459413000,
+      "atime": "2019-04-11T01:02:18.000Z",
+      "mtime": "2019-03-24T20:30:13.000Z",
+      "ctime": "2019-04-11T01:02:18.000Z",
+      "birthtime": "2019-03-24T20:30:13.000Z"
+    },
+    "a0ad256e-58aa-5278-8bdc-782cbc4b2266": {
+      "id": "a0ad256e-58aa-5278-8bdc-782cbc4b2266",
+      "children": [],
+      "parent": "f4685d00-b510-59ed-946f-fb196c255418",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "77fb53d7-4aaa-57f2-9cba-475cd1f70edc": {
+      "id": "77fb53d7-4aaa-57f2-9cba-475cd1f70edc",
+      "children": [],
+      "parent": "62932958-420f-50e4-b975-92a16e99f5a2",
+      "internal": {
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b1148c76-fabf-508e-aaa9-62e1beae1351": {
+      "id": "b1148c76-fabf-508e-aaa9-62e1beae1351",
+      "children": [],
+      "parent": "c330d51c-761f-52e0-977b-88f2c8abf833",
+      "internal": {
+        "contentDigest": "576eaabc2d1c0df2d4cdc7127a9e7626",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "fef20b83-3386-547b-b75c-adc1503045dc": {
+      "id": "fef20b83-3386-547b-b75c-adc1503045dc",
+      "children": [
+        "00808bad-9b94-50ee-8e4a-e4183cbf4ee3"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bbdd987ad8cd4dd28f51d0ef15b9eb02",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-shannon.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-shannon.png",
+      "relativePath": "logo-shannon.png",
+      "extension": "png",
+      "size": 136879,
+      "prettySize": "137 kB",
+      "modifiedTime": "2019-04-11T01:40:42.000Z",
+      "accessTime": "2019-04-11T01:40:42.000Z",
+      "changeTime": "2019-04-11T01:40:42.000Z",
+      "birthTime": "2019-04-11T01:40:41.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "logo-shannon.png",
+      "ext": ".png",
+      "name": "logo-shannon",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8642550,
+      "blocks": 272,
+      "atimeMs": 1554946842000,
+      "mtimeMs": 1554946842000,
+      "ctimeMs": 1554946842000,
+      "birthtimeMs": 1554946841000,
+      "atime": "2019-04-11T01:40:42.000Z",
+      "mtime": "2019-04-11T01:40:42.000Z",
+      "ctime": "2019-04-11T01:40:42.000Z",
+      "birthtime": "2019-04-11T01:40:41.000Z"
+    },
+    "00808bad-9b94-50ee-8e4a-e4183cbf4ee3": {
+      "id": "00808bad-9b94-50ee-8e4a-e4183cbf4ee3",
+      "children": [],
+      "parent": "fef20b83-3386-547b-b75c-adc1503045dc",
+      "internal": {
+        "contentDigest": "bbdd987ad8cd4dd28f51d0ef15b9eb02",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "b17d37a6-17c8-51c5-91d3-2a586cf83891": {
+      "id": "b17d37a6-17c8-51c5-91d3-2a586cf83891",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "59212b92b9b9ec58853dd2cafc2c4696",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/about.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/about.svg",
+      "relativePath": "about.svg",
+      "extension": "svg",
+      "size": 208,
+      "prettySize": "208 B",
+      "modifiedTime": "2019-04-11T01:57:59.000Z",
+      "accessTime": "2019-04-11T01:58:12.000Z",
+      "changeTime": "2019-04-11T01:57:59.000Z",
+      "birthTime": "2019-04-11T01:57:59.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "about.svg",
+      "ext": ".svg",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8661020,
+      "blocks": 8,
+      "atimeMs": 1554947892000,
+      "mtimeMs": 1554947879000,
+      "ctimeMs": 1554947879000,
+      "birthtimeMs": 1554947879000,
+      "atime": "2019-04-11T01:58:12.000Z",
+      "mtime": "2019-04-11T01:57:59.000Z",
+      "ctime": "2019-04-11T01:57:59.000Z",
+      "birthtime": "2019-04-11T01:57:59.000Z"
+    },
+    "b972615a-70e3-51b9-86e3-7cf3b86a0610": {
+      "id": "b972615a-70e3-51b9-86e3-7cf3b86a0610",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f981f15639d73548eecf6eb0351ea178",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/more.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/more.svg",
+      "relativePath": "more.svg",
+      "extension": "svg",
+      "size": 222,
+      "prettySize": "222 B",
+      "modifiedTime": "2019-04-11T01:59:32.000Z",
+      "accessTime": "2019-04-11T01:59:41.000Z",
+      "changeTime": "2019-04-11T01:59:32.000Z",
+      "birthTime": "2019-04-11T01:59:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "base": "more.svg",
+      "ext": ".svg",
+      "name": "more",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8661063,
+      "blocks": 8,
+      "atimeMs": 1554947981000,
+      "mtimeMs": 1554947972000,
+      "ctimeMs": 1554947972000,
+      "birthtimeMs": 1554947972000,
+      "atime": "2019-04-11T01:59:41.000Z",
+      "mtime": "2019-04-11T01:59:32.000Z",
+      "ctime": "2019-04-11T01:59:32.000Z",
+      "birthtime": "2019-04-11T01:59:32.000Z"
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "45e128691788f2b6c5407d7db908d675",
+        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6b5530b16f9dba886960bf38342ca4e1",
+        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a4da13ec4897a01591a513ce5dc39f14",
+        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /poo/sketch/": {
+      "jsonName": "poo-sketch-a2c",
+      "internalComponentName": "ComponentPooSketch",
+      "path": "/poo/sketch/",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js",
+      "componentChunkName": "component---src-pages-poo-sketch-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js",
+      "id": "SitePage /poo/sketch/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e2f98bc1fe4cfa104ec3e060af90d4ce",
+        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "c1b3fed32fb17c7a8461f77040be1dc8",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "7b0f07eb4c0c62c22c15b83e3173cfbc"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-components-layout-js",
+        "sq--src-components-seo-js"
+      ],
+      "f4685d00-b510-59ed-946f-fb196c255418": [
+        "sq--src-components-image-js"
+      ],
+      "a0ad256e-58aa-5278-8bdc-782cbc4b2266": [
+        "sq--src-components-image-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "sq--src-components-seo-js": 2417117884,
+    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-layout-js": 755544856,
+    "index": "140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "poo-sketch-a2c": "20/path---poo-sketch-a-2-c-e16-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-image-js": 2011440971
+  },
+  "components": {
+    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js"
+    },
+    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js"
+    },
+    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js": {
+      "query": "",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js"
+    },
+    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/page-2.js": {
+      "query": "",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/page-2.js"
+    },
+    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js": {
+      "query": "",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
+    },
+    "sq--src-components-image-js": {
+      "name": "usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/image.js",
+      "id": "sq--src-components-image-js",
+      "jsonName": "sq--src-components-image-js",
+      "query": "query usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "hash": 2011440971
+    }
+  }
+}
