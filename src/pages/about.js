@@ -38,22 +38,26 @@ const AboutPage = () => (
       <div className="AboutCardGroup">
         <AboutCard 
         title="React for Designers"
-        text="12 sections"
+        text1="12 sections"
+        text2="shannon"
         image={require('../images/wallpaper.jpg')}
         />
         <AboutCard
         title="React for Designers"
-        text="12 sections"
+        text1="12 sections"
+        text2="shannon"
         image={require('../images/wallpaper.jpg')}
         />
         <AboutCard
         title="React for Designers"
-        text="12 sections"
+        text1="12 sections"
+        text2="shannon"
         image={require('../images/wallpaper.jpg')}
         />
         <AboutCard
         title="React for Designers"
-        text="12 sections"
+        text1="12 sections"
+        text2="shannon"
         image={require('../images/wallpaper.jpg')}
         />
       </div>

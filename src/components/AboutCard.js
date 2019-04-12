@@ -5,7 +5,8 @@ const AboutCard = props => (
     <div className="AboutCard">
         <img src={props.image} alt=""/>
         <h3>{props.title}</h3>
-        <p>{props.text}</p>
+        <p>{props.text1}</p>
+        <p>{props.text2}</p>
     </div>
 )
 
