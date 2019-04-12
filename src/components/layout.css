@@ -140,3 +140,26 @@ a {
     grid-template-columns: repeat(1, 1fr)
   }
 }
+
+
+.About_1{
+  margin:0 auto;
+  padding: 150px 50px;
+  background-size: cover;
+  background-position: center;
+  position: relative;  
+}
+
+.About_Cards_1{
+  margin: 50px 20px;
+  font-size: 60px;
+  text-align: center;
+  font-weight: 700;
+  background: linear-gradient(104deg, #050A27 0%, #4A548C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
+}
+
+.AboutCardGroup{
+  grid-template-columns: repeat(1, 1fr)
+}

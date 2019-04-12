@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Card from "../components/card";
+import AboutCard from "../components/AboutCard";
 import Section from "../components/Section";
 import Wave from "../components/Wave";
 import staticdata from '../../staticdata.json'
@@ -33,49 +33,32 @@ const SectionCellGroup = styled.p`
 const AboutPage = () => (
   <Layout>
     <SEO title="About" />
-    <div className="Hero">
-      <div className="HeroGroup">
-        <h1>Learn to <br /> design and code React apps </h1>
-        <p>Complete courses about the best tools and design systems. Prototype and build apps with React and Swift.</p>
-        <p>Now go build something great.</p>
-        <Link to="/page-2/">Go to poopee</Link>
-
-        <div className="Logos">
-          <img src={require('../images/logo-sketch.png')} width="50" alt=""  />
-          <img src={require('../images/logo-figma.png')} width="50"  alt="" />
-          <img src={require('../images/logo-studio.png')} width="50"  alt="" />
-          <img src={require('../images/logo-framer.png')} width="50"  alt="" />
-          <img src={require('../images/logo-react.png')} width="50"  alt="" />
-          <img src={require('../images/logo-swift.png')} width="50"  alt="" />
-        </div>
-        <Wave />
-      </div>
-    </div>
-    <div className="Cards">
-      <h2>11 courses, more coming</h2>
-      <div className="CardGroup">
-        <Card 
+    <div className= "About_1">
+    <div className="AboutCards">
+      <div className="AboutCardGroup">
+        <AboutCard 
         title="React for Designers"
         text="12 sections"
         image={require('../images/wallpaper.jpg')}
         />
-        <Card 
+        <AboutCard
         title="React for Designers"
         text="12 sections"
         image={require('../images/wallpaper.jpg')}
         />
-        <Card 
+        <AboutCard
         title="React for Designers"
         text="12 sections"
         image={require('../images/wallpaper.jpg')}
         />
-        <Card 
+        <AboutCard
         title="React for Designers"
         text="12 sections"
         image={require('../images/wallpaper.jpg')}
         />
       </div>
     </div>
+  </div>
 
     <Section
       image={require('../images/wallpaper2.jpg')}
