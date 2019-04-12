@@ -15,7 +15,7 @@
 .HeaderGroup{
     max-width: 100%;
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: 1fr 1fr auto;
     align-items: center;
 }
 
@@ -24,15 +24,26 @@
 }
 
 .About{
-    justify-self: end;
     padding-right: 20px;
+    justify-self: end;
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.About:hover{
+    transform: translateX(-15px);
 }
 
 .More{
-    align-self: end;
+    padding: 20px;
+    justify-self: end;
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1)
 }
 
-.Header a{
+.More:hover{
+    transform: rotate(130deg)
+}
+
+/* .Header a{
     color: white;
     font-weight: 700;
 }
@@ -52,15 +63,15 @@
 .Header button:hover{
     background: white;
     box-shadow: 0 10px 20px rgba(0,0,0,0.25);
-    transform: translateY(-3px) /*rotate(10deg)*/;
-}
+    transform: translateY(-3px)
+} */
 
 @media (max-width: 640px){
     .Header{
         padding: 15px 0;
     }
     .HeaderGroup{
-        grid-template-columns: repeat(2, auto);
+        grid-template-columns: 1fr 1fr auto;
     }
     .Header a:nth-child(4){
         display: none;

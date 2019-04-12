@@ -1,5 +1,5 @@
-import Link  from 'gatsby-link'
-import React from 'react'
+import React from "react"
+import { Link } from "gatsby"
 import './Header.css'
 // import StripeCheckout from 'react-stripe-checkout'
 
@@ -49,10 +49,10 @@ handlePurchase = (token) =>{
       <div className = {this.state.hasScrolled ? 'Header HeaderScrolled' : 'Header'}>
         <div className = "HeaderGroup">
           <Link to="/" className = "Shannon"><img src={require('../images/logo-shannon.png')} width ="150" alt=""/></Link>
-          <Link className = "About" to="/about">
-            <img src={require('../images/about.svg')} width ="35" alt=""/>
+          <Link className = "About" to="/about/">
+            <img src={require('../images/about.svg')} width ="33" alt=""/>
           </Link>
-          <Link className = "More" to="/more" >
+          <Link className = "More" to="/more/" >
           <img src={require('../images/more.svg')} width ="35" alt=""/>
           </Link>
           {/* <StripeCheckout

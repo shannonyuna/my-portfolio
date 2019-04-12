@@ -30,9 +30,9 @@ const SectionCellGroup = styled.p`
   }
 `
 
-const IndexPage = () => (
+const AboutPage = () => (
   <Layout>
-    <SEO title="Shannon Koh" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="About" />
     <div className="Hero">
       <div className="HeroGroup">
         <h1>Learn to <br /> design and code React apps </h1>
@@ -96,5 +96,5 @@ const IndexPage = () => (
   </Layout>
 )
 
-export default IndexPage
 
+export default AboutPage
