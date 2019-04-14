@@ -53,7 +53,7 @@ handlePurchase = (token) =>{
             <img src={require('../images/about.svg')} width ="33" alt=""/>
           </Link>
           {/* <Link className = "More" to="/more/" >
-          <img src={require('../images/more.svg')} width ="35" alt=""/>
+            <img src={require('../images/more.svg')} width ="35" alt=""/>
           </Link> */}
           {/* <StripeCheckout
             amount={5000}

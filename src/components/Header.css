@@ -20,7 +20,12 @@
 }
 
 .Shannon {
-    padding-left: 20px
+    padding-left: 20px;
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.Shannon:hover{
+    transform: translateX(15px);
 }
 
 .About{
@@ -33,15 +38,14 @@
     transform: translateX(-15px);
 }
 
-.More{
-    padding: 20px;
-    justify-self: end;
-    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1)
+/* .More{
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    position:relative;
 }
 
 .More:hover{
-    transform: rotate(130deg)
-}
+    transform: rotate(130deg);
+} */
 
 /* .Header a{
     color: white;

@@ -1,0 +1,24 @@
+.more-wrap{
+    position: fixed;
+    bottom:20px;
+    padding: 0 20px;
+    z-index: 100;
+}
+
+.More{
+    position:relative;
+    
+}
+
+button{
+    outline: none;
+    border: 0;
+    padding: 0;
+    background: none;
+    cursor: pointer;
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+button:hover{
+    transform: rotate(130deg);
+}
