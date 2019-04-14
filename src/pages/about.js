@@ -8,7 +8,7 @@ import Wave from "../components/Wave";
 import staticdata from '../../staticdata.json'
 import Cell from "../components/Cell";
 import styled from 'styled-components';
-import AboutExperience from "../components/AboutExperience"
+import About_1 from "../components/About_1"
 
 const SectionCaption = styled.p`
   font-weight: 600;
@@ -34,14 +34,14 @@ const SectionCellGroup = styled.p`
 const AboutPage = () => (
   <Layout>
     <SEO title="About" />
-    <div className = "AboutExperience">
-    <AboutExperience       
+    <div className = "About_1">
+    <About_1       
       image={require('../images/wallpaper2.jpg')}
       logo={require('../images/logo-react.png')}
       title="React for Designers"
       text="Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with components, Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify." />
     </div>
-    
+
     <div className= "About_1">
     <div className="AboutCards">
       <div className="AboutCardGroup">
