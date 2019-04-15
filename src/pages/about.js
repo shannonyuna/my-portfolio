@@ -2,13 +2,12 @@ import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import AboutCard from "../components/AboutCard";
-import Section from "../components/Section";
-import Wave from "../components/Wave";
+import Section from "../components/Section"
 import staticdata from '../../staticdata.json'
-import Cell from "../components/Cell";
-import styled from 'styled-components';
+import Cell from "../components/Cell"
+import styled from 'styled-components'
 import AboutMe from "../components/AboutMe"
+import AboutExperience from "../components/AboutExperience"
 
 const SectionCaption = styled.p`
   font-weight: 600;
@@ -37,38 +36,16 @@ const AboutPage = () => (
     <div className = "AboutMe">
     <AboutMe      
       image={require('../images/wallpaper2.jpg')}
-      logo={require('../images/logo-react.png')}
-      title="React for Designers"
-      text="Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with components, Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify." />
+      title="Shannon Yuna Koh"
+      text="UX/UI Designer" />
     </div>
 
-    <div className="AboutCards">
-      <div className="AboutCardGroup">
-        <AboutCard 
-        title="React for Designers"
-        text1="12 sections"
-        text2="shannon"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <AboutCard
-        title="React for Designers"
-        text1="12 sections"
-        text2="shannon"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <AboutCard
-        title="React for Designers"
-        text1="12 sections"
-        text2="shannon"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <AboutCard
-        title="React for Designers"
-        text1="12 sections"
-        text2="shannon"
-        image={require('../images/wallpaper.jpg')}
-        />
-      </div>
+    <div className = "AboutExperience">
+    <AboutExperience      
+      title1="Experience"
+      title2="Estee Lauder Companies"
+      text1="UX/UI designer"
+      text2="UX/UI Designer" />
     </div>
 
     <Section
