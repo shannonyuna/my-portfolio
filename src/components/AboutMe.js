@@ -5,6 +5,7 @@ const SectionBg = styled.div`
     width: 820px;
     height: 400px;
     background-color: rgba(0,0,0,0.15);
+
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
     &:hover{
         transform: scale(1.05,1.05);

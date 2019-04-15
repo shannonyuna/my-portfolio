@@ -47,4 +47,14 @@ const Detail2 = styled.p`
     font-size: 14px;
 `
 
+const AboutExperience = props =>(
+    <SectionBg>
+        <SectionTitleGroup> 
+            <Title2>{props.title2}</Title2>
+            <Detail1>{props.detail1}</Detail1>
+            <Detail2>{props.detail2}</Detail2>
+        </SectionTitleGroup>
+    </SectionBg>
+)
+
 export default AboutExperience

@@ -7,7 +7,7 @@ import staticdata from '../../staticdata.json'
 import Cell from "../components/Cell"
 import styled from 'styled-components'
 import AboutMe from "../components/AboutMe"
-import AboutExperience from "../components/AboutExperience"
+import AboutDetail from "../components/AboutDetail"
 
 const SectionCaption = styled.p`
   font-weight: 600;
@@ -30,6 +30,20 @@ const SectionCellGroup = styled.p`
   }
 `
 
+const AboutExperience = styled.p`
+  max-width: 800px;
+  margin: 0 auto 100px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 20px;
+  padding: 0 20px;
+  color: black;
+ 
+  @media (max-width: 800px){
+    grid-template-columns: repeat(1,1fr)
+  }
+`
+
 const AboutPage = () => (
   <Layout>
     <SEO title="About" />
@@ -40,7 +54,17 @@ const AboutPage = () => (
       text="UX/UI Designer" />
     </div>
 
-    <div className = "AboutExperience">
+    <AboutExperience>
+        {staticdata.experience.map(cell => (
+        <AboutDetail
+          title2= {cell.title2}
+          detail1= {cell.detail1}
+          detail2= {cell.detail2}
+        />
+        ))}
+    </AboutExperience>
+    
+    {/* <div className = "AboutExperience">
     <AboutExperience      
       title1="Experiences & Skills"
       title2="UX/UI Designer"
@@ -50,7 +74,7 @@ const AboutPage = () => (
       title2="Web Intern"
       text1="Visual Arts Press | 2016 - 2017"
       text2="Designed interactive prototype and wireframe of new SVA.edu and its customer management system." />
-    </div>
+    </div> */}
 
     <Section
       image={require('../images/wallpaper2.jpg')}
@@ -68,6 +92,7 @@ const AboutPage = () => (
         />
         ))}
     </SectionCellGroup>
+
   </Layout>
 )
 

@@ -48,11 +48,9 @@
             "title": "Payment with Stripe Checkout",
             "image": "https://cl.ly/1U1F170x3D0L/download/logo-react-small.png"
         }
-    ]
-}
+    ],
 
-{
-    "ExperienceSkills" : [
+    "experience": [
         {
             "title2": "UX/UI Designer",
             "detail1": "Estée Lauder Companies | 2018 - present",
