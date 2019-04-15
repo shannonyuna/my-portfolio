@@ -2,8 +2,8 @@ import React from 'react'
 import styled from 'styled-components'
 
 const SectionBg = styled.div`
-    width: 850px;
-    height: 400px;
+    width: 600px;
+    height: 800px;
     background-color: rgba(0,0,0,0.15);
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
     &:hover{
@@ -17,26 +17,34 @@ const SectionTitleGroup = styled.div`
     grid-template-columns: 1fr;
     padding: 40px;
     margin: 0;
+    max-width: 350px;
 `
 
 const Title1 = styled.h2`
     color:rgba(0,0,0,0.75);
     margin: 0;
+    font-size: 24px;
+    padding-bottom: 50px;
 `
 
 const Title2 = styled.h3`
     color:rgba(0,0,0,0.75);
     margin: 0;
-    padding: 40px 0 20px 0;
+    padding-bottom: 10px;
+    font-weight: 100;
 `
 
 const Detail1 = styled.p`
-    color:rgba(0,0,0,0.5);
+    color:rgba(0,0,0,0.75);
     margin: 0;
+    padding-bottom: 10px;
+    font-weight: 700;
+    font-size: 14px;
 `
 const Detail2 = styled.p`
     color:rgba(0,0,0,0.5);
     margin: 0;
+    font-size: 14px;
 `
 
 const AboutExperience = props =>(

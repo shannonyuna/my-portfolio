@@ -42,10 +42,14 @@ const AboutPage = () => (
 
     <div className = "AboutExperience">
     <AboutExperience      
-      title1="Experience"
-      title2="Estee Lauder Companies"
-      text1="UX/UI designer"
-      text2="UX/UI Designer" />
+      title1="Experiences & Skills"
+      title2="UX/UI Designer"
+      text1="Estée Lauder Companies | 2018 - present"
+      text2="Designed the user interface of the custom software for the packaging innovation department." 
+      
+      title2="Web Intern"
+      text1="Visual Arts Press | 2016 - 2017"
+      text2="Designed interactive prototype and wireframe of new SVA.edu and its customer management system." />
     </div>
 
     <Section

@@ -50,3 +50,33 @@
         }
     ]
 }
+
+{
+    "ExperienceSkills" : [
+        {
+            "title2": "UX/UI Designer",
+            "detail1": "Estée Lauder Companies | 2018 - present",
+            "detail2": "Designed the user experience and interface of the custom software for the packaging innovation department."
+        },
+        {
+            "title2": "Web Intern",
+            "detail1": "Visual Arts Press | 2016 - 2017",
+            "detail2": "Designed interactive prototype and wireframe of new SVA.edu and its customer management system."
+        },
+        {
+            "title2": "Service Operation Team Intern/ Translator",
+            "detail1": "Visual Arts Press | 2016 - 2017",
+            "detail2": "Designed interactive prototype and wireframe of new SVA.edu and its customer management system."
+        },
+        {
+            "title2": "Web Intern",
+            "detail1": "Visual Arts Press | 2016 - 2017",
+            "detail2": "Designed interactive prototype and wireframe of new SVA.edu and its customer management system."
+        },
+        {
+            "title2": "Web Intern",
+            "detail1": "Visual Arts Press | 2016 - 2017",
+            "detail2": "Designed interactive prototype and wireframe of new SVA.edu and its customer management system."
+        }       
+    ]
+}
