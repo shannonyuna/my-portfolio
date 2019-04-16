@@ -1,30 +1,12 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const SectionBg = styled.div`
-    width: 600px;
-    height: 800px;
-    background-color: rgba(0,0,0,0.15);
-    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-    &:hover{
-        transform: scale(1.05,1.05);
-        box-shadow: 0 30px 60px rgba(0,0,0,0.25c)
-    }
-`
-
 const SectionTitleGroup = styled.div`
     display: grid;
     grid-template-columns: 1fr;
-    padding: 40px;
+    padding: 0px 0px 40px 40px;
     margin: 0;
-    max-width: 350px;
-`
-
-const Title1 = styled.h2`
-    color:rgba(0,0,0,0.75);
-    margin: 0;
-    font-size: 24px;
-    padding-bottom: 50px;
+    max-width: 400px;
 `
 
 const Title2 = styled.h3`
@@ -45,16 +27,15 @@ const Detail2 = styled.p`
     color:rgba(0,0,0,0.5);
     margin: 0;
     font-size: 14px;
+    line-height: 1.5;
 `
 
-const AboutExperience = props =>(
-    <SectionBg>
-        <SectionTitleGroup> 
-            <Title2>{props.title2}</Title2>
-            <Detail1>{props.detail1}</Detail1>
-            <Detail2>{props.detail2}</Detail2>
-        </SectionTitleGroup>
-    </SectionBg>
+const AboutDetail = props =>(
+    <SectionTitleGroup> 
+        <Title2>{props.title2}</Title2>
+        <Detail1>{props.detail1}</Detail1>
+        <Detail2>{props.detail2}</Detail2>
+    </SectionTitleGroup>
 )
 
-export default AboutExperience
+export default AboutDetail

@@ -177,17 +177,6 @@ h3{
   animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-.AboutExperience{
-  margin: 100px;
-  padding: 50px 0px 0px 0px;
-  opacity: 0;
-  animation: HeroAnimation;
-  animation-duration: 3s;
-  animation-delay: 0.2s;
-  animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
 
 
 /* ANIMATION */

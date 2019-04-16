@@ -1,48 +1,45 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Section from "../components/Section"
 import staticdata from '../../staticdata.json'
-import Cell from "../components/Cell"
 import styled from 'styled-components'
 import AboutMe from "../components/AboutMe"
 import AboutDetail from "../components/AboutDetail"
 
-const SectionCaption = styled.p`
-  font-weight: 600;
-  font-size: 18px;
-  text-tranform: uppercase;
-  color: #94A4BA;
-  text-align: center;
-`
 
-const SectionCellGroup = styled.p`
-  max-width: 800px;
-  margin: 0 auto 100px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 20px;
-  padding: 0 20px;
- 
-  @media (max-width: 800px){
-    grid-template-columns: repeat(1,1fr)
+const ExperienceBg = styled.div`
+  margin: 150px 0px 150px 150px;
+  padding-top: 40px;
+  width: 600px;
+  height: 600px;
+  background-color: rgba(0,0,0,0.15);
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  &:hover{
+      transform: scale(1.05,1.05);
+      box-shadow: 0 30px 60px rgba(0,0,0,0.25)
   }
 `
 
-const AboutExperience = styled.p`
-  max-width: 800px;
-  margin: 0 auto 100px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 20px;
-  padding: 0 20px;
-  color: black;
- 
-  @media (max-width: 800px){
-    grid-template-columns: repeat(1,1fr)
+const EducationBg = styled.div`
+  margin: 150px 0px 150px 550px;
+  padding-top: 40px;
+  width: 600px;
+  height: 740px;
+  background-color: rgba(0,0,0,0.15);
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  &:hover{
+      transform: scale(1.05,1.05);
+      box-shadow: 0 30px 60px rgba(0,0,0,0.25)
   }
 `
+const Line = styled.div`
+  width: 520px;
+  margin: 0px auto 40px auto;
+  color: white;
+  border: 0.5px solid rgba(255,255,255,0.5);
+  z-index: 100;
+`
+
 
 const AboutPage = () => (
   <Layout>
@@ -54,44 +51,39 @@ const AboutPage = () => (
       text="UX/UI Designer" />
     </div>
 
-    <AboutExperience>
-        {staticdata.experience.map(cell => (
+    <ExperienceBg>
+      {staticdata.experience.map(cell => (
         <AboutDetail
           title2= {cell.title2}
           detail1= {cell.detail1}
           detail2= {cell.detail2}
         />
-        ))}
-    </AboutExperience>
-    
-    {/* <div className = "AboutExperience">
-    <AboutExperience      
-      title1="Experiences & Skills"
-      title2="UX/UI Designer"
-      text1="Estée Lauder Companies | 2018 - present"
-      text2="Designed the user interface of the custom software for the packaging innovation department." 
-      
-      title2="Web Intern"
-      text1="Visual Arts Press | 2016 - 2017"
-      text2="Designed interactive prototype and wireframe of new SVA.edu and its customer management system." />
-    </div> */}
+      ))}
+    </ExperienceBg>
 
-    <Section
-      image={require('../images/wallpaper2.jpg')}
-      logo={require('../images/logo-react.png')}
-      title="React for Designers"
-      text="Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with components, Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify." />
-
-
-    <SectionCaption>12 sections - 5 hours</SectionCaption>
-    <SectionCellGroup>
-        {staticdata.cells.map(cell => (
-        <Cell 
-          title= {cell.title}
-          image= {cell.image}
+    <EducationBg>
+    <div className="EducationAchievement">
+      <div>
+        {staticdata.education.map(cell => (
+        <AboutDetail
+          title2= {cell.title2}
+          detail1= {cell.detail1}
+          detail2= {cell.detail2}
         />
-        ))}
-    </SectionCellGroup>
+      ))}
+      </div>
+      <Line></Line>
+      <div>
+      {staticdata.achievement.map(cell => (
+        <AboutDetail
+          title2= {cell.title2}
+          detail1= {cell.detail1}
+          detail2= {cell.detail2}
+        />
+      ))}
+      </div>
+      </div>
+    </EducationBg>
 
   </Layout>
 )

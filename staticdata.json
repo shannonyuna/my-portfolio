@@ -71,5 +71,41 @@
             "detail1": "Korea Youth Counseling and Welfare Institute | 2013",
             "detail2": "Executed the goal of the institute to guide students to assist each other by promoting the peer-counseling club within schools."
         }
-    ]
+    ],
+
+    "education":[
+        {
+            "title2": "School of Visual Arts | Class of 2018",
+            "detail1": "BFA Graphic Design (GPA 3.9/4.0)",
+            "detail2": "Dean’s List (2015, 2016)"
+        },
+        {
+            "title2": "New York University | Class of 2014",
+            "detail1": "BA Psychology (GPA 3.6/4.0)",
+            "detail2": "Dean’s List (2014)" 
+        }
+    ],
+
+    "achievement": [
+        {
+            "title2": "Mitch Shostak Scholarship Award | 2017-2018",
+            "detail1": "Mitch Shostak Scholarship Foundation",
+            "detail2": " Final recipient after portfolio review and interview with the committee"
+        },
+        {
+            "title2": "BFA Design Department Grant | 2017-2018",
+            "detail1": "School of Visual Arts",
+            "detail2": ""
+        },
+        {
+            "title2": "Junior Portfolio Top Percentile | 2017",
+            "detail1": "School of Visual Arts",
+            "detail2": ""
+        },
+        {
+            "title2": "Graphis New Talent | 2017",
+            "detail1": "Graphis Inc.",
+            "detail2": "Platinum Award in Poster Design"
+        }
+    ]  
 }
