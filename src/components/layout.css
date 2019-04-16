@@ -161,19 +161,27 @@ h3{
   animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
-.Order{
+.AboutLabel{
   position: relative;
   top: 150px;
   left: 525px;
 }
 
-@media (max-width: 1060px){
-  .Order{
-    position: relative;
-    top: 170px;
-    left: 20px;
-  }
+.ExperienceBox{
+  position:relative;
+  left: 150px;
 }
+
+.EducationBox{
+  position: relative;
+  left: 500px;
+}
+
+/* @media (max-width: 720px){
+  .EducationBox{
+    position: relative;
+    left: 0px;
+  } */
 
 /* ANIMATION */
 @keyframes HeroAnimation {

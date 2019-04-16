@@ -18,11 +18,10 @@ const MeBg = styled.div`
   }  
 `
 
-const ExperienceBg = styled.div`
-  margin: 150px 0px 150px 150px;
+const AboutListBg = styled.div`
+  margin: 150px 0px 150px 0px;
   padding-top: 40px;
   width: 500px;
-  height: 600px;
   background-color: rgba(0,0,0,0.15);
   transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
   &:hover{
@@ -30,35 +29,18 @@ const ExperienceBg = styled.div`
       box-shadow: 0 30px 60px rgba(0,0,0,0.25)
   }
   @media (max-width: 1060px){
-      margin: 150px 0px 50px 150px;
-    }
+  }
   @media (max-width: 720px){
-      margin: 50px 0px 50px 20px;
-      max-width: 360px;
-      height: 680px;
-    }
+    height: 680px;
+  }
+  .ExperienceContent{
+    height: 600px;
+  }
+  .EducationContent{
+    height: 760px;
+  }
 `
 
-const EducationBg = styled.div`
-  margin: 150px 0px 150px 550px;
-  padding-top: 40px;
-  width: 500px;
-  height: 740px;
-  background-color: rgba(0,0,0,0.15);
-  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-  &:hover{
-      transform: scale(1.05,1.05);
-      box-shadow: 0 30px 60px rgba(0,0,0,0.25)
-  }
-  @media (max-width: 1060px){
-      margin: 150px 0px 50px 80px;
-    }  
-  @media (max-width: 720px){
-      margin: 50px 0px 50px 20px;
-      max-width: 360px;
-      height: 780px;
-    }
-`
 const WhiteLine = styled.div`
   width: 520px;
   margin: 0px auto 40px auto;
@@ -85,47 +67,53 @@ const AboutPage = () => (
     <SEO title="About" />
     <div className = "AboutMe">
     <MeBg>
-    <div className = "Order">
+    <div className = "AboutLabel">
     <BlackLine></BlackLine>
     <AboutMe      
       title="Shannon Yuna Koh"
       text="UX/UI Designer" />
     </div>  
     </MeBg>
-    <ExperienceBg>
-      {staticdata.experience.map(cell => (
-        <AboutDetail
-          title2= {cell.title2}
-          detail1= {cell.detail1}
-          detail2= {cell.detail2}
-        />
-      ))}
-    </ExperienceBg>
 
-    <EducationBg>
-    <div className="EducationAchievement">
-      <div>
-        {staticdata.education.map(cell => (
-        <AboutDetail
-          title2= {cell.title2}
-          detail1= {cell.detail1}
-          detail2= {cell.detail2}
-        />
-      ))}
-      </div>
-      <WhiteLine></WhiteLine>
-      <div>
-      {staticdata.achievement.map(cell => (
-        <AboutDetail
-          title2= {cell.title2}
-          detail1= {cell.detail1}
-          detail2= {cell.detail2}
-        />
-      ))}
-      </div>
-      </div>
-    </EducationBg>
+    <div className="ExperienceBox">
+      <AboutListBg>
+        <div className="ExperienceContent">
+        {staticdata.experience.map(cell => (
+          <AboutDetail
+            title2= {cell.title2}
+            detail1= {cell.detail1}
+            detail2= {cell.detail2}
+          />
+        ))}
+        </div>  
+      </AboutListBg>
+    </div>
 
+    <div className="EducationBox">
+      <AboutListBg>
+      <div className="EducationContent">
+          <div>
+            {staticdata.education.map(cell => (
+            <AboutDetail
+              title2= {cell.title2}
+              detail1= {cell.detail1}
+              detail2= {cell.detail2}
+            />
+          ))}
+          </div>
+          <WhiteLine></WhiteLine>
+          <div>
+          {staticdata.achievement.map(cell => (
+            <AboutDetail
+              title2= {cell.title2}
+              detail1= {cell.detail1}
+              detail2= {cell.detail2}
+            />
+          ))}
+          </div>
+        </div>
+        </AboutListBg>
+      </div>
   </div>
   </Layout>
 )
