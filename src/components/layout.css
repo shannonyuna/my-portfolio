@@ -150,22 +150,6 @@ h3{
 
 
 /* ABOUT PAGE */
-.About_Cards_1{
-  font-size: 60px;
-  text-align: center;
-  font-weight: 700;
-  background: linear-gradient(104deg, #050A27 0%, #4A548C 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent
-}
-
-.AboutCardGroup{
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 150px;
-  justify-items: center;
-}
-
 .AboutMe{
   margin: 0 auto;
   padding: 150px 0px 0px 0px;
@@ -177,7 +161,19 @@ h3{
   animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
+.Order{
+  position: relative;
+  top: 150px;
+  left: 525px;
+}
 
+@media (max-width: 1060px){
+  .Order{
+    position: relative;
+    top: 170px;
+    left: 20px;
+  }
+}
 
 /* ANIMATION */
 @keyframes HeroAnimation {
@@ -190,3 +186,77 @@ h3{
     transform: translateY(0px)
   }
 }
+
+@keyframes cta-hover{
+  0%, 100%{
+    -webkit-transform:scale(1, 1) rotate(0deg) translateZ(0);
+    transform:scale(1, 1) rotate(0deg) translateZ(0)}
+  21%{
+    -webkit-transform:scale(1.76, 0.46) rotate(-9deg) translateZ(0);
+    transform:scale(1.76, 0.46) rotate(-9deg) translateZ(0)}
+  50%{
+    -webkit-transform:scale(0.82, 1.21) rotate(13deg) translateZ(0);
+    transform:scale(0.82, 1.21) rotate(13deg) translateZ(0)}
+  }
+@-webkit-keyframes sprinkle-wiggle{
+  0%, 25%, 50%, 75%, 100%{
+    -webkit-transform:none;transform:none}
+  12.5%{
+    -webkit-transform:scale(1.07, 0.95) rotate(3deg) translate3d(2px, -2px, 0);
+    transform:scale(1.07, 0.95) rotate(3deg) translate3d(2px, -2px, 0)}
+  37.5%{
+    -webkit-transform:scale(0.97, 1.03) rotate(1deg) translate3d(-1px, 2px, 0);
+    transform:scale(0.97, 1.03) rotate(1deg) translate3d(-1px, 2px, 0)}
+  62.5%{
+    -webkit-transform:scale(1.05, 0.98) rotate(4deg) translate3d(1px, 1px, 0);
+    transform:scale(1.05, 0.98) rotate(4deg) translate3d(1px, 1px, 0)}
+  87.5%{
+    -webkit-transform:scale(0.96, 1.04) rotate(5deg) translate3d(-2px, -1px, 0);
+    transform:scale(0.96, 1.04) rotate(5deg) translate3d(-2px, -1px, 0)}
+  }
+@keyframes sprinkle-wiggle{
+  0%, 25%, 50%, 75%, 100%{
+    -webkit-transform:none;transform:none}
+  12.5%{
+    -webkit-transform:scale(1.07, 0.95) rotate(3deg) translate3d(2px, -2px, 0);
+    transform:scale(1.07, 0.95) rotate(3deg) translate3d(2px, -2px, 0)}
+  37.5%{
+    -webkit-transform:scale(0.97, 1.03) rotate(1deg) translate3d(-1px, 2px, 0);
+    transform:scale(0.97, 1.03) rotate(1deg) translate3d(-1px, 2px, 0)}
+  62.5%{
+    -webkit-transform:scale(1.05, 0.98) rotate(4deg) translate3d(1px, 1px, 0);
+    transform:scale(1.05, 0.98) rotate(4deg) translate3d(1px, 1px, 0)}
+  87.5%{
+    -webkit-transform:scale(0.96, 1.04) rotate(5deg) translate3d(-2px, -1px, 0);
+    transform:scale(0.96, 1.04) rotate(5deg) translate3d(-2px, -1px, 0)}
+  }
+@-webkit-keyframes blobby-wiggle{
+  0%, 25%, 50%, 75%, 100%{
+    -webkit-transform:none;transform:none}
+  12.5%{
+    -webkit-transform:scale(1.02, 0.98) rotate(2deg) translate3d(2px, -2px, 0);
+    transform:scale(1.02, 0.98) rotate(2deg) translate3d(2px, -2px, 0)}
+  37.5%{
+    -webkit-transform:scale(0.995, 1.01) rotate(1deg) translate3d(-1px, 2px, 0);
+    transform:scale(0.995, 1.01) rotate(1deg) translate3d(-1px, 2px, 0)}
+  62.5%{
+    -webkit-transform:scale(1.01, 0.99) rotate(3deg) translate3d(1px, 1px, 0);
+    transform:scale(1.01, 0.99) rotate(3deg) translate3d(1px, 1px, 0)}
+  87.5%{
+    -webkit-transform:scale(0.99, 1.02) rotate(4deg) translate3d(-2px, -1px, 0);
+    transform:scale(0.99, 1.02) rotate(4deg) translate3d(-2px, -1px, 0)}
+  }
+@keyframes blobby-wiggle{
+  0%, 25%, 50%, 75%, 100%{
+    -webkit-transform:none;transform:none}
+  12.5%{
+    -webkit-transform:scale(1.02, 0.98) rotate(2deg) translate3d(2px, -2px, 0);
+    transform:scale(1.02, 0.98) rotate(2deg) translate3d(2px, -2px, 0)}
+  37.5%{
+    -webkit-transform:scale(0.995, 1.01) rotate(1deg) translate3d(-1px, 2px, 0);
+    transform:scale(0.995, 1.01) rotate(1deg)}
+  }
+
+.cta-hovered canvas,.cta-hovered img,.cta-hovered svg{
+  -webkit-animation:cta-hover .4s ease-in-out 0s normal !important;
+  animation:cta-hover .4s ease-in-out 0s normal !important}

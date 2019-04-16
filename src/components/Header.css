@@ -1,3 +1,4 @@
+
 .Header{
     position: fixed;
     width: 100%;
@@ -31,44 +32,15 @@
 .About{
     padding-right: 20px;
     justify-self: end;
-    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    animation: sprinkle-wiggle 1s linear infinite;
+    animation-play-state: paused; 
+    cursor: pointer;
 }
 
 .About:hover{
-    transform: translateX(-15px);
-}
-
-/* .More{
-    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-    position:relative;
-}
-
-.More:hover{
-    transform: rotate(130deg);
-} */
-
-/* .Header a{
-    color: white;
-    font-weight: 700;
-}
-
-.Header button {
-    padding: 8px 20px;
-    font-size: 20px;
-    background: #56CCF2;
-    border: none;
-    font-weight: 700;
-    border-radius: 10px;
-    outline: none;
+    animation-play-state: running;
     cursor: pointer;
-    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
 }
-
-.Header button:hover{
-    background: white;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.25);
-    transform: translateY(-3px)
-} */
 
 @media (max-width: 640px){
     .Header{
@@ -88,3 +60,20 @@
     }
 
 }
+
+@keyframes sprinkle-wiggle{
+    0%, 25%, 50%, 75%, 100%{
+      -webkit-transform:none;transform:none}
+    12.5%{
+      -webkit-transform:scale(1.2, 0.75) rotate(5deg) translate3d(2px, -2px, 0);
+      transform:scale(1.2, 0.75) rotate(5deg) translate3d(2px, -2px, 0)}
+    37.5%{
+      -webkit-transform:scale(0.95, 1.2) rotate(2deg) translate3d(-1px, 5px, 0);
+      transform:scale(0.95, 1.2) rotate(2deg) translate3d(-1px, 5px, 0)}
+    62.5%{
+      -webkit-transform:scale(1.1, 0.95) rotate(4deg) translate3d(3px, 1px, 0);
+      transform:scale(1.1, 0.95) rotate(4deg) translate3d(3px, 1px, 0)}
+    87.5%{
+      -webkit-transform:scale(0.95, 1.5) rotate(5deg) translate3d(-2px, -5px, 0);
+      transform:scale(0.95, 1.5) rotate(5deg) translate3d(-2px, -5px, 0)}
+    }

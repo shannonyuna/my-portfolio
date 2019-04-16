@@ -7,6 +7,11 @@ const SectionTitleGroup = styled.div`
     padding: 0px 0px 40px 40px;
     margin: 0;
     max-width: 400px;
+
+    @media (max-width: 720px){
+      max-width: 300px;
+      padding-left: 30px;
+    }    
 `
 
 const Title2 = styled.h3`
