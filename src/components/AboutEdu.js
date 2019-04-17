@@ -18,18 +18,22 @@ const SectionTitleGroup = styled.div`
 `
 
 const SectionTitle = styled.h1`
+    position:relative;
+    left: 180px;
+    width: 170px;
     color:rgba(0,0,0,0.75);
     font-size: 30px;
     line-height:1.2;
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-    @media (max-width: 600px){
+    @media (max-width: 992px){
         font-size: 30px;
         top: 0px;   
+        left: 0px;
     }
 `
 const BlackLine =  styled.div`
     position: relative; 
-    top: -35px;
+    top: -70px;
     left: 380px;
     width: 180px;
     color: black;
