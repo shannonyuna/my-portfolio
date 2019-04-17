@@ -11,7 +11,7 @@ import AboutEdu from "../components/AboutEdu"
 const MeBg = styled.div`
   width: 600px;
   height: 300px;
-  background-color: rgba(0,0,0,0.15);
+  background-color: rgba(0,0,0,0.25);
   transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
   z-index: -100px;
   &:hover{
@@ -27,7 +27,12 @@ const AboutListBg = styled.div`
   margin: 0px 0px 0px 150px;
   padding-top: 40px;
   width: 480px;
-  background-color: rgba(0,0,0,0.15);
+
+  box-shadow: rgba(0,0,0,0.06) 0px 2px 4px 0px;
+  border: 1px solid rgba(0,0,0, 0.1);
+  border-radius: 3px;
+  color: rgba(72,72,72);
+
   transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
   &:hover{
       transform: scale(1.05,1.05);
@@ -39,19 +44,9 @@ const AboutListBg = styled.div`
   .EducationContent{
     height: 740px;
   }
-  ${'' /* @media (max-width: 600px){
-    margin: 0px 0px 0px 30px;
-    width: 350px;
-    
-    .ExperienceContent{
-      height: 690px;
-    }
-    .EducationContent{
-      height: 780px;
-    } */}
-  }
+
   @media (max-width: 992px){
-    margin: 0px 0px 0px 30px;    
+    margin: 0px 0px 0px 20px;    
     width: 350px;
     .ExperienceContent{
       height: 690px;   

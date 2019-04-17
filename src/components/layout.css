@@ -151,7 +151,7 @@ h3{
 
 /* ABOUT PAGE */
 .AboutMe{
-  margin: 0 auto;
+  margin: 0 auto 150px auto;
   padding: 150px 0px 0px 0px;
   opacity: 0;
   animation: HeroAnimation;
@@ -177,7 +177,7 @@ h3{
 }
 
 .AboutExpLayout{
-  margin: 250px 0px 150px 0px;
+  margin: 250px 0px 150px 100px;
   grid-template-columns: 580px 1fr;
   display: grid;
 }
@@ -189,6 +189,9 @@ h3{
 }
 
 @media (max-width: 992px){
+  .AboutExpLayout{
+    margin: 250px 0px 150px 0px
+  }
   .ExperienceBox{
     left: 0px;
   }

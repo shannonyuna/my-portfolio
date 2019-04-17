@@ -5,11 +5,11 @@ const SectionTitleGroup = styled.div`
     position: absolute;
     padding: 0px 0px 0px 0px;
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-
-    ${'' /* @media (max-width: 600px){
-        left:0px;
-        top:630px;   
-    }     */}
+    color: rgba(72,72,72);
+    transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    &:hover{
+    transform: scale(1.05,1.05);
+    }
     @media (max-width: 992px){
         left:30px;
         top:1505px;
@@ -31,9 +31,9 @@ const BlackLine =  styled.div`
     position: relative; 
     top: -35px;
     left: 380px;
-    width: 200px;
+    width: 180px;
     color: black;
-    border: 0.5px solid rgba(0,0,0,0.75);
+    border: 0.5px solid rgba(72,72,72,0.75);
     z-index: 100;
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
     @media (max-width: 992px){

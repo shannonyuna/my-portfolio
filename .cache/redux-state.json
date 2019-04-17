@@ -317,6 +317,135 @@
         "owner": "internal-data-bridge"
       }
     },
+    "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1": {
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
+      "id": "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1",
+      "name": "gatsby-source-filesystem",
+      "version": "2.0.27",
+      "pluginOptions": {
+        "plugins": [],
+        "spaceId": "5xe41k6xv4zo",
+        "acessToken": "102e223765915bf359d0e33f298f29dae4a435309b555c6af65bd6d594dd1e84",
+        "name": "images",
+        "path": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "2.0.27",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "file-type",
+            "version": "^10.2.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^2.2.0"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "progress",
+            "version": "^1.1.8"
+          },
+          {
+            "name": "read-chunk",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          },
+          {
+            "name": "xstate",
+            "version": "^3.1.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "7b3acd380d6932b59d41c98f776a83b4",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
       "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-transformer-sharp",
       "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
@@ -639,7 +768,7 @@
       "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "ac6c4d25907fbf7b802322765790b844",
+      "version": "b1fbafbcaf701c8d0f7fcd72f958bf5a",
       "pluginOptions": {
         "plugins": []
       },
@@ -735,154 +864,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "9c30c4ac6370dab2c0b8bb91fc11b1ef",
-        "type": "SitePlugin",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "Site": {
-      "siteMetadata": {
-        "title": "Shannon Koh",
-        "description": "Shannon Koh's Portfolio",
-        "author": "@gatsbyjs"
-      },
-      "port": "8000",
-      "host": "localhost",
-      "buildTime": "2019-04-17T14:00:10.632Z",
-      "id": "Site",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "beaa218cfcf958803d816f063a347011",
-        "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1": {
-      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
-      "id": "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1",
-      "name": "gatsby-source-filesystem",
-      "version": "2.0.27",
-      "pluginOptions": {
-        "plugins": [],
-        "spaceId": "5xe41k6xv4zo",
-        "acessToken": "102e223765915bf359d0e33f298f29dae4a435309b555c6af65bd6d594dd1e84",
-        "name": "images",
-        "path": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images"
-      },
-      "nodeAPIs": [
-        "sourceNodes",
-        "setFieldsOnGraphQLNodeType"
-      ],
-      "browserAPIs": [],
-      "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
-      "packageJson": {
-        "name": "gatsby-source-filesystem",
-        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
-        "version": "2.0.27",
-        "keywords": [
-          "gatsby",
-          "gatsby-plugin"
-        ],
-        "author": {
-          "name": "Kyle Mathews",
-          "email": "mathews.kyle@gmail.com"
-        },
-        "license": "MIT",
-        "dependencies": [
-          {
-            "name": "@babel/runtime",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "better-queue",
-            "version": "^3.8.7"
-          },
-          {
-            "name": "bluebird",
-            "version": "^3.5.0"
-          },
-          {
-            "name": "chokidar",
-            "version": "^2.1.2"
-          },
-          {
-            "name": "file-type",
-            "version": "^10.2.0"
-          },
-          {
-            "name": "fs-extra",
-            "version": "^5.0.0"
-          },
-          {
-            "name": "got",
-            "version": "^7.1.0"
-          },
-          {
-            "name": "md5-file",
-            "version": "^3.1.1"
-          },
-          {
-            "name": "mime",
-            "version": "^2.2.0"
-          },
-          {
-            "name": "pretty-bytes",
-            "version": "^4.0.2"
-          },
-          {
-            "name": "progress",
-            "version": "^1.1.8"
-          },
-          {
-            "name": "read-chunk",
-            "version": "^3.0.0"
-          },
-          {
-            "name": "slash",
-            "version": "^1.0.0"
-          },
-          {
-            "name": "valid-url",
-            "version": "^1.0.9"
-          },
-          {
-            "name": "xstate",
-            "version": "^3.1.0"
-          }
-        ],
-        "devDependencies": [
-          {
-            "name": "@babel/cli",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "@babel/core",
-            "version": "^7.0.0"
-          },
-          {
-            "name": "babel-preset-gatsby-package",
-            "version": "^0.1.4"
-          },
-          {
-            "name": "cross-env",
-            "version": "^5.1.4"
-          }
-        ],
-        "peerDependencies": [
-          {
-            "name": "gatsby",
-            "version": "^2.0.0"
-          }
-        ],
-        "optionalDependecies": [],
-        "bundledDependecies": []
-      },
-      "parent": null,
-      "children": [],
-      "internal": {
-        "contentDigest": "7b3acd380d6932b59d41c98f776a83b4",
+        "contentDigest": "3a4ac857434a9d79509e88bc48989de9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -990,12 +972,32 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Site": {
+      "siteMetadata": {
+        "title": "Shannon Koh",
+        "description": "Shannon Koh's Portfolio",
+        "author": "@gatsbyjs"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-04-17T18:20:40.209Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ad5883b0b1efac65d8e33c1972318b5b",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
     "c4eefe81-48b5-5c16-8ed7-560b7ef6f115": {
       "id": "c4eefe81-48b5-5c16-8ed7-560b7ef6f115",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "a6d23fc04b53da85cee2ab0d390f6f5a",
+        "contentDigest": "4d5b13484ce34807510af17683853615",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1007,7 +1009,7 @@
       "size": 714,
       "prettySize": "714 B",
       "modifiedTime": "2019-04-12T14:43:55.000Z",
-      "accessTime": "2019-04-17T14:00:14.000Z",
+      "accessTime": "2019-04-17T18:20:43.000Z",
       "changeTime": "2019-04-12T15:38:42.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1025,13 +1027,58 @@
       "blksize": 4096,
       "ino": 12796673,
       "blocks": 0,
-      "atimeMs": 1555509614000,
+      "atimeMs": 1555525243000,
       "mtimeMs": 1555080235000,
       "ctimeMs": 1555083522000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-17T14:00:14.000Z",
+      "atime": "2019-04-17T18:20:43.000Z",
       "mtime": "2019-04-12T14:43:55.000Z",
       "ctime": "2019-04-12T15:38:42.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "73f0ab64-c335-5e61-8575-a698e7c93c40": {
+      "id": "73f0ab64-c335-5e61-8575-a698e7c93c40",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "d66ea36d22adcb9ea29d256cb30b3889",
+        "type": "File",
+        "mediaType": "image/svg+xml",
+        "description": "File \"src/images/logo-designcode.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-designcode.svg",
+      "relativePath": "logo-designcode.svg",
+      "extension": "svg",
+      "size": 2215,
+      "prettySize": "2.21 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-17T14:00:14.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-designcode.svg",
+      "ext": ".svg",
+      "name": "logo-designcode",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796677,
+      "blocks": 8,
+      "atimeMs": 1555509614000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-17T14:00:14.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
     },
     "a8995336-0497-523c-89bc-68cae1600965": {
@@ -1052,7 +1099,7 @@
       "size": 208,
       "prettySize": "208 B",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:13.000Z",
+      "accessTime": "2019-04-17T14:00:18.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1070,11 +1117,11 @@
       "blksize": 4096,
       "ino": 12796675,
       "blocks": 8,
-      "atimeMs": 1555354993000,
+      "atimeMs": 1555509618000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:13.000Z",
+      "atime": "2019-04-17T14:00:18.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1099,7 +1146,7 @@
       "size": 10090,
       "prettySize": "10.1 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1117,56 +1164,11 @@
       "blksize": 4096,
       "ino": 12796678,
       "blocks": 24,
-      "atimeMs": 1555354992000,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
-      "mtime": "2019-04-11T19:48:32.000Z",
-      "ctime": "2019-04-12T15:38:41.000Z",
-      "birthtime": "2019-04-11T19:48:32.000Z"
-    },
-    "73f0ab64-c335-5e61-8575-a698e7c93c40": {
-      "id": "73f0ab64-c335-5e61-8575-a698e7c93c40",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "d66ea36d22adcb9ea29d256cb30b3889",
-        "type": "File",
-        "mediaType": "image/svg+xml",
-        "description": "File \"src/images/logo-designcode.svg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-designcode.svg",
-      "relativePath": "logo-designcode.svg",
-      "extension": "svg",
-      "size": 2215,
-      "prettySize": "2.21 kB",
-      "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:09.000Z",
-      "changeTime": "2019-04-12T15:38:41.000Z",
-      "birthTime": "2019-04-11T19:48:32.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "logo-designcode.svg",
-      "ext": ".svg",
-      "name": "logo-designcode",
-      "relativeDirectory": "",
-      "dev": 16777224,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12796677,
-      "blocks": 8,
-      "atimeMs": 1555354989000,
-      "mtimeMs": 1555012112000,
-      "ctimeMs": 1555083521000,
-      "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:09.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1191,7 +1193,7 @@
       "size": 9489,
       "prettySize": "9.49 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1209,11 +1211,11 @@
       "blksize": 4096,
       "ino": 12796679,
       "blocks": 24,
-      "atimeMs": 1555354992000,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1238,7 +1240,7 @@
       "size": 1815,
       "prettySize": "1.81 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:09.000Z",
+      "accessTime": "2019-04-17T14:00:14.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1256,11 +1258,58 @@
       "blksize": 4096,
       "ino": 12796680,
       "blocks": 8,
-      "atimeMs": 1555354989000,
+      "atimeMs": 1555509614000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:09.000Z",
+      "atime": "2019-04-17T14:00:14.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "16955107-07ab-5772-94da-73c56a4c8e26": {
+      "id": "16955107-07ab-5772-94da-73c56a4c8e26",
+      "children": [
+        "377df0a9-33ac-50fb-a321-8fd34012de6b"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-react.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-react.png",
+      "relativePath": "logo-react.png",
+      "extension": "png",
+      "size": 9739,
+      "prettySize": "9.74 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-react.png",
+      "ext": ".png",
+      "name": "logo-react",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796681,
+      "blocks": 24,
+      "atimeMs": 1555509617000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1295,81 +1344,44 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "16955107-07ab-5772-94da-73c56a4c8e26": {
-      "id": "16955107-07ab-5772-94da-73c56a4c8e26",
-      "children": [
-        "377df0a9-33ac-50fb-a321-8fd34012de6b"
-      ],
-      "parent": null,
+    "377df0a9-33ac-50fb-a321-8fd34012de6b": {
+      "id": "377df0a9-33ac-50fb-a321-8fd34012de6b",
+      "children": [],
+      "parent": "16955107-07ab-5772-94da-73c56a4c8e26",
       "internal": {
         "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/logo-react.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-react.png",
-      "relativePath": "logo-react.png",
-      "extension": "png",
-      "size": 9739,
-      "prettySize": "9.74 kB",
-      "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
-      "changeTime": "2019-04-12T15:38:41.000Z",
-      "birthTime": "2019-04-11T19:48:32.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "logo-react.png",
-      "ext": ".png",
-      "name": "logo-react",
-      "relativeDirectory": "",
-      "dev": 16777224,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12796681,
-      "blocks": 24,
-      "atimeMs": 1555354992000,
-      "mtimeMs": 1555012112000,
-      "ctimeMs": 1555083521000,
-      "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
-      "mtime": "2019-04-11T19:48:32.000Z",
-      "ctime": "2019-04-12T15:38:41.000Z",
-      "birthtime": "2019-04-11T19:48:32.000Z"
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
-    "a247b52f-7ee5-5345-beff-07212e5280cb": {
-      "id": "a247b52f-7ee5-5345-beff-07212e5280cb",
+    "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b": {
+      "id": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
       "children": [
-        "8c381439-2eef-5c64-80c1-2d45bc7edc9a"
+        "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
+        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/logo-xcode.png\"",
+        "description": "File \"src/images/logo-swift.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-xcode.png",
-      "relativePath": "logo-xcode.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-swift.png",
+      "relativePath": "logo-swift.png",
       "extension": "png",
-      "size": 19137,
-      "prettySize": "19.1 kB",
+      "size": 6035,
+      "prettySize": "6.04 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:09.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
       "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "logo-xcode.png",
+      "base": "logo-swift.png",
       "ext": ".png",
-      "name": "logo-xcode",
+      "name": "logo-swift",
       "relativeDirectory": "",
       "dev": 16777224,
       "mode": 33261,
@@ -1378,60 +1390,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12796686,
-      "blocks": 40,
-      "atimeMs": 1555354989000,
+      "ino": 12796685,
+      "blocks": 16,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:09.000Z",
-      "mtime": "2019-04-11T19:48:32.000Z",
-      "ctime": "2019-04-12T15:38:41.000Z",
-      "birthtime": "2019-04-11T19:48:32.000Z"
-    },
-    "48e0bd75-01c2-5ad3-8980-a8a039be0b2e": {
-      "id": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
-      "children": [
-        "8db4a58d-ea42-5b94-b57a-e9272497a903"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/logo-studio.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-studio.png",
-      "relativePath": "logo-studio.png",
-      "extension": "png",
-      "size": 2123,
-      "prettySize": "2.12 kB",
-      "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
-      "changeTime": "2019-04-12T15:38:41.000Z",
-      "birthTime": "2019-04-11T19:48:32.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "logo-studio.png",
-      "ext": ".png",
-      "name": "logo-studio",
-      "relativeDirectory": "",
-      "dev": 16777224,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12796684,
-      "blocks": 8,
-      "atimeMs": 1555354992000,
-      "mtimeMs": 1555012112000,
-      "ctimeMs": 1555083521000,
-      "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1456,7 +1421,7 @@
       "size": 4800,
       "prettySize": "4.8 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1474,43 +1439,43 @@
       "blksize": 4096,
       "ino": 12796683,
       "blocks": 16,
-      "atimeMs": 1555354992000,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b": {
-      "id": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
+    "48e0bd75-01c2-5ad3-8980-a8a039be0b2e": {
+      "id": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
       "children": [
-        "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8"
+        "8db4a58d-ea42-5b94-b57a-e9272497a903"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/logo-swift.png\"",
+        "description": "File \"src/images/logo-studio.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-swift.png",
-      "relativePath": "logo-swift.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-studio.png",
+      "relativePath": "logo-studio.png",
       "extension": "png",
-      "size": 6035,
-      "prettySize": "6.04 kB",
+      "size": 2123,
+      "prettySize": "2.12 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
       "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "logo-swift.png",
+      "base": "logo-studio.png",
       "ext": ".png",
-      "name": "logo-swift",
+      "name": "logo-studio",
       "relativeDirectory": "",
       "dev": 16777224,
       "mode": 33261,
@@ -1519,13 +1484,13 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 12796685,
-      "blocks": 16,
-      "atimeMs": 1555354992000,
+      "ino": 12796684,
+      "blocks": 8,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1548,7 +1513,7 @@
       "size": 222,
       "prettySize": "222 B",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:13.000Z",
+      "accessTime": "2019-04-17T14:00:18.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1566,11 +1531,58 @@
       "blksize": 4096,
       "ino": 12796687,
       "blocks": 8,
-      "atimeMs": 1555354993000,
+      "atimeMs": 1555509618000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:13.000Z",
+      "atime": "2019-04-17T14:00:18.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "a247b52f-7ee5-5345-beff-07212e5280cb": {
+      "id": "a247b52f-7ee5-5345-beff-07212e5280cb",
+      "children": [
+        "8c381439-2eef-5c64-80c1-2d45bc7edc9a"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-xcode.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-xcode.png",
+      "relativePath": "logo-xcode.png",
+      "extension": "png",
+      "size": 19137,
+      "prettySize": "19.1 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-17T14:00:14.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-xcode.png",
+      "ext": ".png",
+      "name": "logo-xcode",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796686,
+      "blocks": 40,
+      "atimeMs": 1555509614000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-17T14:00:14.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1595,7 +1607,7 @@
       "size": 25416,
       "prettySize": "25.4 kB",
       "modifiedTime": "2019-04-12T14:05:10.000Z",
-      "accessTime": "2019-04-15T19:03:10.000Z",
+      "accessTime": "2019-04-17T14:00:15.000Z",
       "changeTime": "2019-04-12T15:38:42.000Z",
       "birthTime": "2019-04-12T14:05:10.000Z",
       "root": "/",
@@ -1613,41 +1625,21 @@
       "blksize": 4096,
       "ino": 12796692,
       "blocks": 56,
-      "atimeMs": 1555354990000,
+      "atimeMs": 1555509615000,
       "mtimeMs": 1555077910000,
       "ctimeMs": 1555083522000,
       "birthtimeMs": 1555077910000,
-      "atime": "2019-04-15T19:03:10.000Z",
+      "atime": "2019-04-17T14:00:15.000Z",
       "mtime": "2019-04-12T14:05:10.000Z",
       "ctime": "2019-04-12T15:38:42.000Z",
       "birthtime": "2019-04-12T14:05:10.000Z"
     },
-    "377df0a9-33ac-50fb-a321-8fd34012de6b": {
-      "id": "377df0a9-33ac-50fb-a321-8fd34012de6b",
+    "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8": {
+      "id": "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8",
       "children": [],
-      "parent": "16955107-07ab-5772-94da-73c56a4c8e26",
+      "parent": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
       "internal": {
-        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "8c381439-2eef-5c64-80c1-2d45bc7edc9a": {
-      "id": "8c381439-2eef-5c64-80c1-2d45bc7edc9a",
-      "children": [],
-      "parent": "a247b52f-7ee5-5345-beff-07212e5280cb",
-      "internal": {
-        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "8db4a58d-ea42-5b94-b57a-e9272497a903": {
-      "id": "8db4a58d-ea42-5b94-b57a-e9272497a903",
-      "children": [],
-      "parent": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
-      "internal": {
-        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
+        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1662,12 +1654,22 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8": {
-      "id": "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8",
+    "8db4a58d-ea42-5b94-b57a-e9272497a903": {
+      "id": "8db4a58d-ea42-5b94-b57a-e9272497a903",
       "children": [],
-      "parent": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
+      "parent": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
       "internal": {
-        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8c381439-2eef-5c64-80c1-2d45bc7edc9a": {
+      "id": "8c381439-2eef-5c64-80c1-2d45bc7edc9a",
+      "children": [],
+      "parent": "a247b52f-7ee5-5345-beff-07212e5280cb",
+      "internal": {
+        "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1681,53 +1683,6 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
-    },
-    "41a396fd-2eeb-531f-8d31-f713062754e6": {
-      "id": "41a396fd-2eeb-531f-8d31-f713062754e6",
-      "children": [
-        "71e4a996-543b-5f0f-91a8-9ae36176b42c"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/wallpaper2.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper2.jpg",
-      "relativePath": "wallpaper2.jpg",
-      "extension": "jpg",
-      "size": 119124,
-      "prettySize": "119 kB",
-      "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
-      "changeTime": "2019-04-12T15:38:41.000Z",
-      "birthTime": "2019-04-11T19:48:32.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "wallpaper2.jpg",
-      "ext": ".jpg",
-      "name": "wallpaper2",
-      "relativeDirectory": "",
-      "dev": 16777224,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12796689,
-      "blocks": 240,
-      "atimeMs": 1555354992000,
-      "mtimeMs": 1555012112000,
-      "ctimeMs": 1555083521000,
-      "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
-      "mtime": "2019-04-11T19:48:32.000Z",
-      "ctime": "2019-04-12T15:38:41.000Z",
-      "birthtime": "2019-04-11T19:48:32.000Z"
     },
     "65b8f3a7-7d34-56f2-9c7c-b11de39089c2": {
       "id": "65b8f3a7-7d34-56f2-9c7c-b11de39089c2",
@@ -1749,7 +1704,7 @@
       "size": 96517,
       "prettySize": "96.5 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:12.000Z",
+      "accessTime": "2019-04-17T14:00:17.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1767,34 +1722,61 @@
       "blksize": 4096,
       "ino": 12796688,
       "blocks": 192,
-      "atimeMs": 1555354992000,
+      "atimeMs": 1555509617000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:12.000Z",
+      "atime": "2019-04-17T14:00:17.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "71e4a996-543b-5f0f-91a8-9ae36176b42c": {
-      "id": "71e4a996-543b-5f0f-91a8-9ae36176b42c",
-      "children": [],
-      "parent": "41a396fd-2eeb-531f-8d31-f713062754e6",
+    "2a31aafe-a24e-5a53-bb8f-5b89afb65caa": {
+      "id": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
+      "children": [
+        "f1dda704-f3eb-5169-a358-a01ee8526545"
+      ],
+      "parent": null,
       "internal": {
-        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "e5db263e-5b8b-5540-9962-55169ef1bb68": {
-      "id": "e5db263e-5b8b-5540-9962-55169ef1bb68",
-      "children": [],
-      "parent": "65b8f3a7-7d34-56f2-9c7c-b11de39089c2",
-      "internal": {
-        "contentDigest": "d737c672cf7193dbf709b825ea681376",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper3.jpg",
+      "relativePath": "wallpaper3.jpg",
+      "extension": "jpg",
+      "size": 129941,
+      "prettySize": "130 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-17T14:00:18.000Z",
+      "changeTime": "2019-04-12T15:38:42.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "wallpaper3.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper3",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796690,
+      "blocks": 256,
+      "atimeMs": 1555509618000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083522000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-17T14:00:18.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:42.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
     "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162": {
       "id": "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162",
@@ -1816,7 +1798,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T20:55:19.000Z",
+      "accessTime": "2019-04-17T18:11:09.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1834,14 +1816,101 @@
       "blksize": 4096,
       "ino": 12796676,
       "blocks": 328,
-      "atimeMs": 1555361719000,
+      "atimeMs": 1555524669000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T20:55:19.000Z",
+      "atime": "2019-04-17T18:11:09.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "41a396fd-2eeb-531f-8d31-f713062754e6": {
+      "id": "41a396fd-2eeb-531f-8d31-f713062754e6",
+      "children": [
+        "71e4a996-543b-5f0f-91a8-9ae36176b42c"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper2.jpg",
+      "relativePath": "wallpaper2.jpg",
+      "extension": "jpg",
+      "size": 119124,
+      "prettySize": "119 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-17T14:00:18.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "wallpaper2.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper2",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796689,
+      "blocks": 240,
+      "atimeMs": 1555509618000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-17T14:00:18.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "e5db263e-5b8b-5540-9962-55169ef1bb68": {
+      "id": "e5db263e-5b8b-5540-9962-55169ef1bb68",
+      "children": [],
+      "parent": "65b8f3a7-7d34-56f2-9c7c-b11de39089c2",
+      "internal": {
+        "contentDigest": "d737c672cf7193dbf709b825ea681376",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f1dda704-f3eb-5169-a358-a01ee8526545": {
+      "id": "f1dda704-f3eb-5169-a358-a01ee8526545",
+      "children": [],
+      "parent": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
+      "internal": {
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "27223c65-c635-53a2-bb5c-e9b35bfc175a": {
+      "id": "27223c65-c635-53a2-bb5c-e9b35bfc175a",
+      "children": [],
+      "parent": "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162",
+      "internal": {
+        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "71e4a996-543b-5f0f-91a8-9ae36176b42c": {
+      "id": "71e4a996-543b-5f0f-91a8-9ae36176b42c",
+      "children": [],
+      "parent": "41a396fd-2eeb-531f-8d31-f713062754e6",
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "5ba8409e-2adf-5692-b5fd-5c623919c7c9": {
       "id": "5ba8409e-2adf-5692-b5fd-5c623919c7c9",
@@ -1863,7 +1932,7 @@
       "size": 136879,
       "prettySize": "137 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:13.000Z",
+      "accessTime": "2019-04-17T14:00:18.000Z",
       "changeTime": "2019-04-12T15:38:41.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1881,11 +1950,11 @@
       "blksize": 4096,
       "ino": 12796682,
       "blocks": 272,
-      "atimeMs": 1555354993000,
+      "atimeMs": 1555509618000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083521000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:13.000Z",
+      "atime": "2019-04-17T14:00:18.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:41.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -1910,7 +1979,7 @@
       "size": 148370,
       "prettySize": "148 kB",
       "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:09.000Z",
+      "accessTime": "2019-04-17T14:00:14.000Z",
       "changeTime": "2019-04-12T15:38:42.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1928,24 +1997,14 @@
       "blksize": 4096,
       "ino": 12796691,
       "blocks": 296,
-      "atimeMs": 1555354989000,
+      "atimeMs": 1555509614000,
       "mtimeMs": 1555012112000,
       "ctimeMs": 1555083522000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:09.000Z",
+      "atime": "2019-04-17T14:00:14.000Z",
       "mtime": "2019-04-11T19:48:32.000Z",
       "ctime": "2019-04-12T15:38:42.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
-    },
-    "27223c65-c635-53a2-bb5c-e9b35bfc175a": {
-      "id": "27223c65-c635-53a2-bb5c-e9b35bfc175a",
-      "children": [],
-      "parent": "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162",
-      "internal": {
-        "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "64ced732-767a-541e-9e6b-665dc8bd4133": {
       "id": "64ced732-767a-541e-9e6b-665dc8bd4133",
@@ -1963,63 +2022,6 @@
       "parent": "3160025b-d227-51a9-9273-c9cb368263e5",
       "internal": {
         "contentDigest": "576eaabc2d1c0df2d4cdc7127a9e7626",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "2a31aafe-a24e-5a53-bb8f-5b89afb65caa": {
-      "id": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
-      "children": [
-        "f1dda704-f3eb-5169-a358-a01ee8526545"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/wallpaper3.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper3.jpg",
-      "relativePath": "wallpaper3.jpg",
-      "extension": "jpg",
-      "size": 129941,
-      "prettySize": "130 kB",
-      "modifiedTime": "2019-04-11T19:48:32.000Z",
-      "accessTime": "2019-04-15T19:03:13.000Z",
-      "changeTime": "2019-04-12T15:38:42.000Z",
-      "birthTime": "2019-04-11T19:48:32.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
-      "base": "wallpaper3.jpg",
-      "ext": ".jpg",
-      "name": "wallpaper3",
-      "relativeDirectory": "",
-      "dev": 16777224,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 502,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 12796690,
-      "blocks": 256,
-      "atimeMs": 1555354993000,
-      "mtimeMs": 1555012112000,
-      "ctimeMs": 1555083522000,
-      "birthtimeMs": 1555012112000,
-      "atime": "2019-04-15T19:03:13.000Z",
-      "mtime": "2019-04-11T19:48:32.000Z",
-      "ctime": "2019-04-12T15:38:42.000Z",
-      "birthtime": "2019-04-11T19:48:32.000Z"
-    },
-    "f1dda704-f3eb-5169-a358-a01ee8526545": {
-      "id": "f1dda704-f3eb-5169-a358-a01ee8526545",
-      "children": [],
-      "parent": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
-      "internal": {
-        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -2153,7 +2155,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "f57e4ecc3fb2fb6d2c0f5d89cd8c4cb9"
+    "PLUGINS_HASH": "baac96b838500eb2db89e1fecb3b2152"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2166,9 +2168,7 @@
       ],
       "27223c65-c635-53a2-bb5c-e9b35bfc175a": [
         "sq--src-components-image-js"
-      ],
-      "f4685d00-b510-59ed-946f-fb196c255418": [],
-      "a0ad256e-58aa-5278-8bdc-782cbc4b2266": []
+      ]
     },
     "connections": {}
   },
@@ -2212,14 +2212,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-layout-js": {
-      "name": "SiteTitleQuery",
-      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/layout.js",
-      "id": "sq--src-components-layout-js",
-      "jsonName": "sq--src-components-layout-js",
-      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
-      "hash": 755544856
-    },
     "sq--src-components-image-js": {
       "name": "usersShannonkohDesktopZShannonMyPortfolioSrcComponentsImageJs2011440971",
       "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/image.js",
@@ -2227,6 +2219,14 @@
       "jsonName": "sq--src-components-image-js",
       "query": "query usersShannonkohDesktopZShannonMyPortfolioSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
+    },
+    "sq--src-components-layout-js": {
+      "name": "SiteTitleQuery",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/layout.js",
+      "id": "sq--src-components-layout-js",
+      "jsonName": "sq--src-components-layout-js",
+      "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
+      "hash": 755544856
     },
     "sq--src-components-seo-js": {
       "name": "usersShannonkohDesktopZShannonMyPortfolioSrcComponentsSeoJs2417117884",
