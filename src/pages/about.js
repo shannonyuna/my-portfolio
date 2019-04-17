@@ -46,7 +46,7 @@ const AboutListBg = styled.div`
   }
 
   @media (max-width: 992px){
-    margin: 0px 0px 0px 20px;    
+    margin: 0px 0px 0px 2ç0px;    
     width: 350px;
     .ExperienceContent{
       height: 690px;   
