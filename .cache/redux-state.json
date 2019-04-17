@@ -742,20 +742,18 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Digital Designer",
+        "title": "Shannon Koh",
         "description": "Shannon Koh's Portfolio",
         "author": "@gatsbyjs"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2019-04-16T15:06:34.702Z",
+      "buildTime": "2019-04-17T14:00:10.632Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5e17ec92c9b80311d6aace1888fc8c51",
+        "contentDigest": "beaa218cfcf958803d816f063a347011",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -997,7 +995,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "012e262c648b25b5638fea844c613c2f",
+        "contentDigest": "a6d23fc04b53da85cee2ab0d390f6f5a",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1009,7 +1007,7 @@
       "size": 714,
       "prettySize": "714 B",
       "modifiedTime": "2019-04-12T14:43:55.000Z",
-      "accessTime": "2019-04-16T15:06:36.000Z",
+      "accessTime": "2019-04-17T14:00:14.000Z",
       "changeTime": "2019-04-12T15:38:42.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1027,11 +1025,11 @@
       "blksize": 4096,
       "ino": 12796673,
       "blocks": 0,
-      "atimeMs": 1555427196000,
+      "atimeMs": 1555509614000,
       "mtimeMs": 1555080235000,
       "ctimeMs": 1555083522000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-16T15:06:36.000Z",
+      "atime": "2019-04-17T14:00:14.000Z",
       "mtime": "2019-04-12T14:43:55.000Z",
       "ctime": "2019-04-12T15:38:42.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"

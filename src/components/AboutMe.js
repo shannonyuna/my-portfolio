@@ -2,8 +2,6 @@ import React from 'react'
 import styled from 'styled-components'
 
 const SectionTitleGroup = styled.div`
-    position:relative;
-    top: 75px;
 `
 
 const SectionTitle = styled.h1`
@@ -22,8 +20,20 @@ const SectionText = styled.p`
     line-height: 1.4;
 `
 
+const BlackLine =  styled.div`
+  position: absolute;
+  width: 200px;
+  color: black;
+  border: 0.5px solid rgba(0,0,0,0.75);
+  z-index: 100;
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  &:hover{
+  }
+`
+
 const AboutMe = props =>(
     <SectionTitleGroup>
+        <BlackLine></BlackLine>
         <SectionTitle>{props.title}</SectionTitle>
         <SectionText>{props.text}</SectionText>
     </SectionTitleGroup>
