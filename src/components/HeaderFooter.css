@@ -45,12 +45,12 @@
 /* FOOTER */
 .FooterGroup{
     width: 95vh;
-    margin: auto;
+    margin: 250px auto 0 auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     align-items: center;
     justify-items: center;
-    height: 300px;    
+    height: 200px;    
     border-top: 1px solid rgba(0,0,0, 0.15);
 }
 
