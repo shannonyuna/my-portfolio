@@ -750,12 +750,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-19T14:53:01.868Z",
+      "buildTime": "2019-04-19T15:33:42.354Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c01d0ff3f2e5be10196a89f2c31fec35",
+        "contentDigest": "6a62b105738c4432e5dd8cd8116d5b74",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -997,7 +997,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f63a4e61883bd2c8f792b96e69cef55b",
+        "contentDigest": "79eeffddc6a187ac6573f3e28a68af60",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1009,7 +1009,7 @@
       "size": 748,
       "prettySize": "748 B",
       "modifiedTime": "2019-04-19T13:56:55.000Z",
-      "accessTime": "2019-04-19T14:53:05.000Z",
+      "accessTime": "2019-04-19T15:33:45.000Z",
       "changeTime": "2019-04-19T13:56:55.000Z",
       "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
@@ -1027,11 +1027,11 @@
       "blksize": 4096,
       "ino": 12796673,
       "blocks": 0,
-      "atimeMs": 1555685585000,
+      "atimeMs": 1555688025000,
       "mtimeMs": 1555682215000,
       "ctimeMs": 1555682215000,
       "birthtimeMs": 1555012112000,
-      "atime": "2019-04-19T14:53:05.000Z",
+      "atime": "2019-04-19T15:33:45.000Z",
       "mtime": "2019-04-19T13:56:55.000Z",
       "ctime": "2019-04-19T13:56:55.000Z",
       "birthtime": "2019-04-11T19:48:32.000Z"
@@ -2208,6 +2208,51 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "60022974-5a97-5c6f-8f63-ba425c62f51e": {
+      "id": "60022974-5a97-5c6f-8f63-ba425c62f51e",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "6bb4a923fafaf51240e00bc59cd150b5",
+        "type": "File",
+        "mediaType": "application/pdf",
+        "description": "File \"src/images/shannonkoh_resume.pdf\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/shannonkoh_resume.pdf",
+      "relativePath": "shannonkoh_resume.pdf",
+      "extension": "pdf",
+      "size": 2582770,
+      "prettySize": "2.58 MB",
+      "modifiedTime": "2018-10-08T18:30:57.000Z",
+      "accessTime": "2019-04-19T15:55:23.000Z",
+      "changeTime": "2019-04-19T15:55:23.000Z",
+      "birthTime": "2018-10-08T18:30:51.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "shannonkoh_resume.pdf",
+      "ext": ".pdf",
+      "name": "shannonkoh_resume",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12954230,
+      "blocks": 5048,
+      "atimeMs": 1555689323000,
+      "mtimeMs": 1539023457000,
+      "ctimeMs": 1555689323000,
+      "birthtimeMs": 1539023451000,
+      "atime": "2019-04-19T15:55:23.000Z",
+      "mtime": "2018-10-08T18:30:57.000Z",
+      "ctime": "2019-04-19T15:55:23.000Z",
+      "birthtime": "2018-10-08T18:30:51.000Z"
     }
   },
   "status": {

@@ -45,9 +45,9 @@
 /* FOOTER */
 .FooterGroup{
     width: 95vh;
-    margin: 250px auto 0 auto;
+    margin: 15px auto 0 auto;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: repeat(5, auto);
     align-items: center;
     justify-items: center;
     height: 200px;    
