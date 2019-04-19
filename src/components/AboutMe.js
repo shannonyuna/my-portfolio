@@ -1,7 +1,16 @@
 import React from 'react'
 import styled from 'styled-components'
 
-const SectionTitleGroup = styled.div`
+const SectionGroup = styled.div`
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    &:hover{
+        transform: translateX(40px)
+    };
+    @media (max-width: 992px){
+        &:hover{
+        transform: translateX(10px)
+    }
+    }
 `
 
 const SectionTitle = styled.h1`
@@ -10,9 +19,12 @@ const SectionTitle = styled.h1`
     margin: 0;
     line-height:1.2;
     transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
-    @media (max-width: 720px){
+    @media (max-width: 992px){
         font-size: 40px;
-    }
+    };
+    @media (max-width: 640px){
+        font-size: 36px;
+    };    
 `
 
 const SectionText = styled.p`
@@ -32,11 +44,11 @@ const BlackLine =  styled.div`
 `
 
 const AboutMe = props =>(
-    <SectionTitleGroup>
+    <SectionGroup>
         <BlackLine></BlackLine>
         <SectionTitle>{props.title}</SectionTitle>
         <SectionText>{props.text}</SectionText>
-    </SectionTitleGroup>
+    </SectionGroup>
 )
 
 export default AboutMe

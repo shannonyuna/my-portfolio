@@ -94,6 +94,9 @@ h3{
   .Hero p{
     font-size: 24px;
   }
+  .Hero .Logos {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .Hero svg{
@@ -108,12 +111,6 @@ h3{
   grid-gap: 40px;
   margin: 100px 0;
   justify-items: center;
-}
-
-@media (max-width: 640px) {
-  .Hero .Logos {
-    grid-template-columns: repeat(3, 1fr);
-  }
 }
 
 .Cards h2{
@@ -161,50 +158,125 @@ h3{
   animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
 }
 
+.About_1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
+
+.AboutExpLayout, .AboutEduLayout{
+  margin: 150px 0px 150px 0px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center; 
+}
+
+.AboutBaby{
+  width: 600px;
+  height: 400px;
+  overflow:hidden;
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  z-index: -100px;
+  border-radius: 3px;
+}
+
+.AboutBaby:hover{
+  transform: scale(1.1,1.1);
+  box-shadow: 0 30px 60px rgba(0,0,0,0.5)
+}
+
+.AboutBaby img{
+  width: 600px;
+  position:relative;
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.AboutBaby:hover img{
+  transform: scale(1.2,1.2)
+}
+
 .AboutLabel{
   position: relative;
-  top: 220px;
-  left: 450px;
+  align-self: center;
+  justify-self: start;
+}
+
+.AboutExp{
+  justify-self: start;
+  position: relative;
+  left: -50px;
+}
+
+.AboutEdu{
+  justify-self: end;
+  position: relative;
+  left: -30px;
 }
 
 .ExperienceBox{
-  position:relative;
+  justify-self: end;
 }
 
 .EducationBox{
-  position: relative;
-  left: 500px;
-}
-
-.AboutExpLayout{
-  margin: 250px 0px 150px 100px;
-  grid-template-columns: 580px 1fr;
-  display: grid;
-}
-
-.AboutEduLayout{
-  margin: 0px 0px 0px 0px;
-  grid-template-columns: 100px 1fr;
-  display: grid;
+  justify-self:start;
 }
 
 @media (max-width: 992px){
-  .AboutExpLayout{
-    margin: 250px 0px 150px 0px
+  .AboutBaby{
+    position:relative;
+    left: 10px;
+    max-width: 650px;
+    justify-self: start;
   }
-  .ExperienceBox{
-    left: 0px;
+  .AboutBaby:hover{
+    transform: scale(1.05,1.05)
   }
-  .EducationBox{
-    left: 0px;
-    top: 30px;
+  .AboutExpLayout, .AboutEduLayout, .About_1{
+    grid-template-columns: 1fr 1fr;
+  }
+  .ExperienceBox, .EducationBox{
+    margin: auto 30px;
   }
   .AboutLabel{
-    top: 240px;
-    left: 30px;
+    justify-self: start;
+    margin: 30px;
+  }
+  .AboutEdu{
+    justify-self: start;
+    left: 20px;
   }
 }
 
+@media (max-width: 640px){
+  .AboutBaby{
+    position:relative;
+    left: -50px;
+    max-width: 450px;
+    justify-self: start;
+  }
+  .AboutExpLayout, .AboutEduLayout, .About_1{
+    grid-template-columns: 1fr;
+  }
+  .ExperienceBox, .EducationBox{
+    margin: auto;
+  }
+  .ExperienceBox{
+    top: -30px;
+    position: relative
+  }
+  .AboutExpLayout, .AboutEduLayout{
+    margin: 50px auto;
+  }
+  .AboutLabel{
+    justify-self: start;
+  }
+  .AboutEdu{
+    justify-self: start;
+  }
+  .AboutExpLayout div:nth-of-type(1) {
+    order: 2;
+  }
+}
 
 /* ANIMATION */
 @keyframes HeroAnimation {

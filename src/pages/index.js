@@ -32,7 +32,7 @@ const SectionCellGroup = styled.p`
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home Koh" keywords={[`gatsby`, `application`, `react`]} />
+    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
     <div className="Hero">
       <div className="HeroGroup">
         <h1>Learn to <br /> design and code React apps </h1>
