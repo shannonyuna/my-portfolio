@@ -42,6 +42,30 @@
     cursor: pointer;
 }
 
+/* FOOTER */
+.FooterGroup{
+    width: 95vh;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    height: 300px;    
+    border-top: 1px solid rgba(0,0,0, 0.15);
+}
+
+.Email{
+}
+
+.LinkedIn{
+}
+
+.Resume{
+}
+
+
+
+
 @media (max-width: 640px){
     .Header{
         padding: 15px 0;
@@ -52,13 +76,10 @@
     .Header a:nth-child(4){
         display: none;
     }
-
-    
     .About{
         justify-self: end;
         padding-right: 20px;
     }
-
 }
 
 @keyframes sprinkle-wiggle{

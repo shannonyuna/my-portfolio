@@ -4,25 +4,25 @@
       "jsonName": "dev-404-page-5f9",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "30c006fcf2ee448ae1e8f8d0301dea47",
+        "contentDigest": "7927807767f314d66a6f2078fee6a256",
         "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
         "owner": "internal-data-bridge"
       }
     },
     "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -34,7 +34,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -51,13 +51,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "72338feed35ddefed3717f60d4dd9506",
+        "contentDigest": "a7142efa4854d05e72e94221118fe7dd",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1fc32581-893a-55e8-8927-bcd667e2b700": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
       "name": "load-babel-config",
       "version": "1.0.0",
@@ -69,7 +69,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/load-babel-config",
       "packageJson": {
         "name": "load-babel-config",
         "description": "Internal plugin that handles loading Babel configs",
@@ -86,13 +86,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "44006a79b20e56f3b8178969e0c92863",
+        "contentDigest": "5b32673b33f654b7c6f94628e16d07cb",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -105,7 +105,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -122,13 +122,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "2c77ef6f341ff96c1a146154a807cc60",
+        "contentDigest": "8877b8924e6af3b55044104754a9eb9b",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "name": "prod-404",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -157,13 +157,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e05816530ce05998133d4b6d4f69c14f",
+        "contentDigest": "900cfd67db1fdd384fb2ab7588584634",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84dad27f-1d44-51fc-ac56-4db2e5222995": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
       "name": "query-runner",
       "version": "1.0.0",
@@ -175,7 +175,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -192,13 +192,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "3f4644b4ad990eedd4c66a206844d0e1",
+        "contentDigest": "e23de135ef4ba1e8eea7461b35253dc2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
       "name": "webpack-theme-component-shadowing",
       "version": "1.0.0",
@@ -210,7 +210,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
       "packageJson": {
         "name": "webpack-theme-component-shadowing",
         "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
@@ -227,13 +227,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b1214cd8b0b6b8c30a224be67cfadd94",
+        "contentDigest": "f97237e799ca81bef8444a0d7257ed39",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-react-helmet",
       "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
       "name": "gatsby-plugin-react-helmet",
       "version": "3.0.10",
@@ -245,7 +245,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-react-helmet",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-react-helmet",
       "packageJson": {
         "name": "gatsby-plugin-react-helmet",
         "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
@@ -312,13 +312,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "174933509c5fe03259dade5d60e02be5",
+        "contentDigest": "5c51e09773f00b6c601141e76db0e689",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-transformer-sharp",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-transformer-sharp",
       "id": "da3d06eb-685e-5c77-ae1d-750eb6a2e4a9",
       "name": "gatsby-transformer-sharp",
       "version": "2.1.17",
@@ -332,7 +332,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-transformer-sharp",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-transformer-sharp",
       "packageJson": {
         "name": "gatsby-transformer-sharp",
         "description": "Gatsby transformer plugin for images using Sharp",
@@ -408,13 +408,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "c19ccfbe5381838ac6bb509fca03686c",
+        "contentDigest": "4cea9cb754c3337e79c4e1309c4fa5f1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "84d6154d-4241-556c-a679-cc8339cac100": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-sharp",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-sharp",
       "id": "84d6154d-4241-556c-a679-cc8339cac100",
       "name": "gatsby-plugin-sharp",
       "version": "2.0.30",
@@ -426,7 +426,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-sharp",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-sharp",
       "packageJson": {
         "name": "gatsby-plugin-sharp",
         "description": "Wrapper of the Sharp image manipulation library for Gatsby plugins",
@@ -539,13 +539,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "1db9a4f015e213796a71ff4bd53b0734",
+        "contentDigest": "a47b32913806a1c3b2d2a028df586938",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "d4a5d395-cfe5-5b1c-9c5c-fc41a24b226e": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-manifest",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-manifest",
       "id": "d4a5d395-cfe5-5b1c-9c5c-fc41a24b226e",
       "name": "gatsby-plugin-manifest",
       "version": "2.0.24",
@@ -566,7 +566,7 @@
       "ssrAPIs": [
         "onRenderBody"
       ],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-manifest",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-manifest",
       "packageJson": {
         "name": "gatsby-plugin-manifest",
         "description": "Gatsby plugin which adds a manifest.webmanifest to make sites progressive web apps",
@@ -630,13 +630,13 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "e84081751e10e561895e28b3d871747f",
+        "contentDigest": "0946c96d3e27855b9b403ea1df1aa56e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio",
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
       "version": "b1fbafbcaf701c8d0f7fcd72f958bf5a",
@@ -646,7 +646,7 @@
       "nodeAPIs": [],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio",
       "packageJson": {
         "name": "gatsby-starter-default",
         "description": "A simple starter to get up and developing quickly with Gatsby",
@@ -735,7 +735,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b953b560e3c0180af7125c95c44d1612",
+        "contentDigest": "3a4ac857434a9d79509e88bc48989de9",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -750,19 +750,19 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-19T02:18:01.077Z",
+      "buildTime": "2019-04-19T13:57:18.065Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "a9fa30abbd2d3042c1d0eb4d8d623c2c",
+        "contentDigest": "db0b26c7edfd4e43b231acb31c53c7c2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
     },
-    "3ebec222-d631-5b1d-81ef-05a38bfd3df3": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-source-filesystem",
-      "id": "3ebec222-d631-5b1d-81ef-05a38bfd3df3",
+    "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1": {
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
+      "id": "8e529dd0-7e59-5d71-a2ea-b60bfa00adc1",
       "name": "gatsby-source-filesystem",
       "version": "2.0.27",
       "pluginOptions": {
@@ -770,7 +770,7 @@
         "spaceId": "5xe41k6xv4zo",
         "acessToken": "102e223765915bf359d0e33f298f29dae4a435309b555c6af65bd6d594dd1e84",
         "name": "images",
-        "path": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images"
+        "path": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images"
       },
       "nodeAPIs": [
         "sourceNodes",
@@ -778,7 +778,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-source-filesystem",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-source-filesystem",
       "packageJson": {
         "name": "gatsby-source-filesystem",
         "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
@@ -884,19 +884,19 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b08947c7871a6f43dbcdbb7867b209a0",
+        "contentDigest": "7b3acd380d6932b59d41c98f776a83b4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "236a1825-0670-5652-bd83-f7102fb01bb0": {
-      "resolve": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-page-creator",
-      "id": "236a1825-0670-5652-bd83-f7102fb01bb0",
+    "93b70437-cf82-5a4c-82d5-6b521ca5fd4f": {
+      "resolve": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "id": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
       "name": "gatsby-plugin-page-creator",
       "version": "2.0.10",
       "pluginOptions": {
         "plugins": [],
-        "path": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages",
+        "path": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages",
         "pathCheck": false
       },
       "nodeAPIs": [
@@ -904,7 +904,7 @@
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
-      "pluginFilepath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/node_modules/gatsby-plugin-page-creator",
+      "pluginFilepath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/node_modules/gatsby-plugin-page-creator",
       "packageJson": {
         "name": "gatsby-plugin-page-creator",
         "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
@@ -987,57 +987,57 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ba3472028eb2b090b4abcf49dc01de2a",
+        "contentDigest": "fab99a1d0ecec365db6a7391ed68854c",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
-    "60c26afe-900f-5383-9e99-f2139bf2a17e": {
-      "id": "60c26afe-900f-5383-9e99-f2139bf2a17e",
+    "c4eefe81-48b5-5c16-8ed7-560b7ef6f115": {
+      "id": "c4eefe81-48b5-5c16-8ed7-560b7ef6f115",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "fc65319ccc7e80258237f2251b1e1487",
+        "contentDigest": "8561ffbe4b688647cf2571359b426945",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "relativePath": "",
       "extension": "",
       "size": 748,
       "prettySize": "748 B",
-      "modifiedTime": "2019-04-19T02:08:02.000Z",
-      "accessTime": "2019-04-19T02:18:03.000Z",
-      "changeTime": "2019-04-19T02:08:02.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-19T13:56:55.000Z",
+      "accessTime": "2019-04-19T13:57:22.000Z",
+      "changeTime": "2019-04-19T13:56:55.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src",
       "base": "images",
       "ext": "",
       "name": "images",
       "relativeDirectory": "..",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 16877,
       "nlink": 22,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641591,
+      "ino": 12796673,
       "blocks": 0,
-      "atimeMs": 1555640283000,
-      "mtimeMs": 1555639682000,
-      "ctimeMs": 1555639682000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-19T02:18:03.000Z",
-      "mtime": "2019-04-19T02:08:02.000Z",
-      "ctime": "2019-04-19T02:08:02.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555682242000,
+      "mtimeMs": 1555682215000,
+      "ctimeMs": 1555682215000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-19T13:57:22.000Z",
+      "mtime": "2019-04-19T13:56:55.000Z",
+      "ctime": "2019-04-19T13:56:55.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "b17d37a6-17c8-51c5-91d3-2a586cf83891": {
-      "id": "b17d37a6-17c8-51c5-91d3-2a586cf83891",
+    "a8995336-0497-523c-89bc-68cae1600965": {
+      "id": "a8995336-0497-523c-89bc-68cae1600965",
       "children": [],
       "parent": null,
       "internal": {
@@ -1048,88 +1048,41 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/about.svg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/about.svg",
       "relativePath": "about.svg",
       "extension": "svg",
       "size": 208,
       "prettySize": "208 B",
-      "modifiedTime": "2019-04-13T01:55:26.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-13T01:55:26.000Z",
-      "birthTime": "2019-04-13T01:55:26.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:17.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "about.svg",
       "ext": ".svg",
       "name": "about",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8804666,
+      "ino": 12796675,
       "blocks": 8,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1555120526000,
-      "ctimeMs": 1555120526000,
-      "birthtimeMs": 1555120526000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-04-13T01:55:26.000Z",
-      "ctime": "2019-04-13T01:55:26.000Z",
-      "birthtime": "2019-04-13T01:55:26.000Z"
+      "atimeMs": 1555613537000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:17.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "7080295a-18a0-5864-8dc5-e864ba7e20a1": {
-      "id": "7080295a-18a0-5864-8dc5-e864ba7e20a1",
-      "children": [
-        "7371a9f3-335c-5696-bee4-96f218d2f353"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/logo-figma.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-figma.png",
-      "relativePath": "logo-figma.png",
-      "extension": "png",
-      "size": 10090,
-      "prettySize": "10.1 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "logo-figma.png",
-      "ext": ".png",
-      "name": "logo-figma",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8641595,
-      "blocks": 24,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
-    },
-    "a5e5fa92-8de0-594b-b7c0-58e2efb01e0b": {
-      "id": "a5e5fa92-8de0-594b-b7c0-58e2efb01e0b",
+    "73f0ab64-c335-5e61-8575-a698e7c93c40": {
+      "id": "73f0ab64-c335-5e61-8575-a698e7c93c40",
       "children": [],
       "parent": null,
       "internal": {
@@ -1140,90 +1093,90 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-designcode.svg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-designcode.svg",
       "relativePath": "logo-designcode.svg",
       "extension": "svg",
       "size": 2215,
       "prettySize": "2.21 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:28:58.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:13.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-designcode.svg",
       "ext": ".svg",
       "name": "logo-designcode",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641594,
+      "ino": 12796677,
       "blocks": 8,
-      "atimeMs": 1555378138000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:28:58.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613533000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:13.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "2da6ba00-87c9-589d-bb75-90a12b9a9b68": {
-      "id": "2da6ba00-87c9-589d-bb75-90a12b9a9b68",
+    "a600722f-3796-5a7e-9a72-6136c2bf1d14": {
+      "id": "a600722f-3796-5a7e-9a72-6136c2bf1d14",
       "children": [
-        "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3"
+        "2dea9c05-b402-5b1a-a518-0640afa61bec"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "5584256565a502bb2012921097dcab6b",
+        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/logo-invision.png\"",
+        "description": "File \"src/images/logo-figma.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-invision.png",
-      "relativePath": "logo-invision.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-figma.png",
+      "relativePath": "logo-figma.png",
       "extension": "png",
-      "size": 1815,
-      "prettySize": "1.81 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:28:58.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "size": 10090,
+      "prettySize": "10.1 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "logo-invision.png",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-figma.png",
       "ext": ".png",
-      "name": "logo-invision",
+      "name": "logo-figma",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641597,
-      "blocks": 8,
-      "atimeMs": 1555378138000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:28:58.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "ino": 12796678,
+      "blocks": 24,
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "2f70fde5-bdec-5639-93cf-921f51f47fe6": {
-      "id": "2f70fde5-bdec-5639-93cf-921f51f47fe6",
+    "5afbca04-1866-5aa5-b533-332b755925f0": {
+      "id": "5afbca04-1866-5aa5-b533-332b755925f0",
       "children": [
-        "27f8e056-2f4b-59d8-92db-8ae96fbf3323"
+        "12e55cec-9345-5f08-9e99-53d1be1f1e31"
       ],
       "parent": null,
       "internal": {
@@ -1234,130 +1187,90 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-framer.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-framer.png",
       "relativePath": "logo-framer.png",
       "extension": "png",
       "size": 9489,
       "prettySize": "9.49 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-framer.png",
       "ext": ".png",
       "name": "logo-framer",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641596,
+      "ino": 12796679,
       "blocks": 24,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "cfe03520-e63c-56da-9896-db51896e9cee": {
-      "id": "cfe03520-e63c-56da-9896-db51896e9cee",
+    "8a252f83-efd8-53e2-95ee-1c350dcf9cdb": {
+      "id": "8a252f83-efd8-53e2-95ee-1c350dcf9cdb",
       "children": [
-        "a948f485-758c-5e28-8b95-6d55ba064f67"
+        "6267eb5c-0cea-5a2f-9299-84124d682335"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
+        "contentDigest": "5584256565a502bb2012921097dcab6b",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/logo-react.png\"",
+        "description": "File \"src/images/logo-invision.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-react.png",
-      "relativePath": "logo-react.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-invision.png",
+      "relativePath": "logo-invision.png",
       "extension": "png",
-      "size": 9739,
-      "prettySize": "9.74 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "size": 1815,
+      "prettySize": "1.81 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:13.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "logo-react.png",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-invision.png",
       "ext": ".png",
-      "name": "logo-react",
+      "name": "logo-invision",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641598,
-      "blocks": 24,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "ino": 12796680,
+      "blocks": 8,
+      "atimeMs": 1555613533000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:13.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "7371a9f3-335c-5696-bee4-96f218d2f353": {
-      "id": "7371a9f3-335c-5696-bee4-96f218d2f353",
-      "children": [],
-      "parent": "7080295a-18a0-5864-8dc5-e864ba7e20a1",
-      "internal": {
-        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3": {
-      "id": "2f52d0b6-6521-5f06-8dc4-e4bc33ef06c3",
-      "children": [],
-      "parent": "2da6ba00-87c9-589d-bb75-90a12b9a9b68",
-      "internal": {
-        "contentDigest": "5584256565a502bb2012921097dcab6b",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "27f8e056-2f4b-59d8-92db-8ae96fbf3323": {
-      "id": "27f8e056-2f4b-59d8-92db-8ae96fbf3323",
-      "children": [],
-      "parent": "2f70fde5-bdec-5639-93cf-921f51f47fe6",
-      "internal": {
-        "contentDigest": "12167a912ccf152f2efb78a74aa32880",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "a948f485-758c-5e28-8b95-6d55ba064f67": {
-      "id": "a948f485-758c-5e28-8b95-6d55ba064f67",
-      "children": [],
-      "parent": "cfe03520-e63c-56da-9896-db51896e9cee",
-      "internal": {
-        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "b481115e-7f5e-5fd8-8da7-015c99dc4181": {
-      "id": "b481115e-7f5e-5fd8-8da7-015c99dc4181",
+    "1b627d8b-d583-5ece-8d99-8baf32f5a867": {
+      "id": "1b627d8b-d583-5ece-8d99-8baf32f5a867",
       "children": [
-        "75d1e781-3076-5e0e-ac31-93466b93a582"
+        "384919d0-790e-59a2-b451-4c78fd052205"
       ],
       "parent": null,
       "internal": {
@@ -1368,90 +1281,90 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-sketch.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-sketch.png",
       "relativePath": "logo-sketch.png",
       "extension": "png",
       "size": 4800,
       "prettySize": "4.8 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-sketch.png",
       "ext": ".png",
       "name": "logo-sketch",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641599,
+      "ino": 12796683,
       "blocks": 16,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "8fa245a5-bb02-54d9-bc83-734a67607c25": {
-      "id": "8fa245a5-bb02-54d9-bc83-734a67607c25",
+    "16955107-07ab-5772-94da-73c56a4c8e26": {
+      "id": "16955107-07ab-5772-94da-73c56a4c8e26",
       "children": [
-        "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb"
+        "377df0a9-33ac-50fb-a321-8fd34012de6b"
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
         "type": "File",
         "mediaType": "image/png",
-        "description": "File \"src/images/logo-swift.png\"",
+        "description": "File \"src/images/logo-react.png\"",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-swift.png",
-      "relativePath": "logo-swift.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-react.png",
+      "relativePath": "logo-react.png",
       "extension": "png",
-      "size": 6035,
-      "prettySize": "6.04 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "size": 9739,
+      "prettySize": "9.74 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "logo-swift.png",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-react.png",
       "ext": ".png",
-      "name": "logo-swift",
+      "name": "logo-react",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641601,
-      "blocks": 16,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "ino": 12796681,
+      "blocks": 24,
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "ade14eac-3a3c-5a1b-9e32-f1e10d34007a": {
-      "id": "ade14eac-3a3c-5a1b-9e32-f1e10d34007a",
+    "48e0bd75-01c2-5ad3-8980-a8a039be0b2e": {
+      "id": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
       "children": [
-        "1f65145b-20a5-5b25-8a83-145c576548fa"
+        "8db4a58d-ea42-5b94-b57a-e9272497a903"
       ],
       "parent": null,
       "internal": {
@@ -1462,41 +1375,101 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-studio.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-studio.png",
       "relativePath": "logo-studio.png",
       "extension": "png",
       "size": 2123,
       "prettySize": "2.12 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-studio.png",
       "ext": ".png",
       "name": "logo-studio",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641600,
+      "ino": 12796684,
       "blocks": 8,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "b972615a-70e3-51b9-86e3-7cf3b86a0610": {
-      "id": "b972615a-70e3-51b9-86e3-7cf3b86a0610",
+    "2dea9c05-b402-5b1a-a518-0640afa61bec": {
+      "id": "2dea9c05-b402-5b1a-a518-0640afa61bec",
+      "children": [],
+      "parent": "a600722f-3796-5a7e-9a72-6136c2bf1d14",
+      "internal": {
+        "contentDigest": "bdafcb3f99009dcc72a3630b0da96c3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "12e55cec-9345-5f08-9e99-53d1be1f1e31": {
+      "id": "12e55cec-9345-5f08-9e99-53d1be1f1e31",
+      "children": [],
+      "parent": "5afbca04-1866-5aa5-b533-332b755925f0",
+      "internal": {
+        "contentDigest": "12167a912ccf152f2efb78a74aa32880",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "6267eb5c-0cea-5a2f-9299-84124d682335": {
+      "id": "6267eb5c-0cea-5a2f-9299-84124d682335",
+      "children": [],
+      "parent": "8a252f83-efd8-53e2-95ee-1c350dcf9cdb",
+      "internal": {
+        "contentDigest": "5584256565a502bb2012921097dcab6b",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "384919d0-790e-59a2-b451-4c78fd052205": {
+      "id": "384919d0-790e-59a2-b451-4c78fd052205",
+      "children": [],
+      "parent": "1b627d8b-d583-5ece-8d99-8baf32f5a867",
+      "internal": {
+        "contentDigest": "a8abb0b21cd1a5af83d5a11853c2e302",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "377df0a9-33ac-50fb-a321-8fd34012de6b": {
+      "id": "377df0a9-33ac-50fb-a321-8fd34012de6b",
+      "children": [],
+      "parent": "16955107-07ab-5772-94da-73c56a4c8e26",
+      "internal": {
+        "contentDigest": "f712dd81f04d8f7b1b176a5615d3000f",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8db4a58d-ea42-5b94-b57a-e9272497a903": {
+      "id": "8db4a58d-ea42-5b94-b57a-e9272497a903",
+      "children": [],
+      "parent": "48e0bd75-01c2-5ad3-8980-a8a039be0b2e",
+      "internal": {
+        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "750cc99a-517c-5753-a251-a7e6f43d5966": {
+      "id": "750cc99a-517c-5753-a251-a7e6f43d5966",
       "children": [],
       "parent": null,
       "internal": {
@@ -1507,43 +1480,90 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/more.svg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/more.svg",
       "relativePath": "more.svg",
       "extension": "svg",
       "size": 222,
       "prettySize": "222 B",
-      "modifiedTime": "2019-04-13T01:55:26.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-13T01:55:26.000Z",
-      "birthTime": "2019-04-13T01:55:26.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:17.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "more.svg",
       "ext": ".svg",
       "name": "more",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8804669,
+      "ino": 12796687,
       "blocks": 8,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1555120526000,
-      "ctimeMs": 1555120526000,
-      "birthtimeMs": 1555120526000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-04-13T01:55:26.000Z",
-      "ctime": "2019-04-13T01:55:26.000Z",
-      "birthtime": "2019-04-13T01:55:26.000Z"
+      "atimeMs": 1555613537000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:17.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "321a7e8a-deeb-5900-9bcf-c6a173a31f55": {
-      "id": "321a7e8a-deeb-5900-9bcf-c6a173a31f55",
+    "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b": {
+      "id": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
       "children": [
-        "b0037951-0e04-51a6-b453-c82df5609072"
+        "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/logo-swift.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-swift.png",
+      "relativePath": "logo-swift.png",
+      "extension": "png",
+      "size": 6035,
+      "prettySize": "6.04 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "logo-swift.png",
+      "ext": ".png",
+      "name": "logo-swift",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796685,
+      "blocks": 16,
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "a247b52f-7ee5-5345-beff-07212e5280cb": {
+      "id": "a247b52f-7ee5-5345-beff-07212e5280cb",
+      "children": [
+        "8c381439-2eef-5c64-80c1-2d45bc7edc9a"
       ],
       "parent": null,
       "internal": {
@@ -1554,43 +1574,43 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-xcode.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-xcode.png",
       "relativePath": "logo-xcode.png",
       "extension": "png",
       "size": 19137,
       "prettySize": "19.1 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:28:58.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:13.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-xcode.png",
       "ext": ".png",
       "name": "logo-xcode",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641602,
+      "ino": 12796686,
       "blocks": 40,
-      "atimeMs": 1555378138000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:28:58.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613533000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:13.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "5e0442d4-4ca3-5074-b1e1-29092334f07d": {
-      "id": "5e0442d4-4ca3-5074-b1e1-29092334f07d",
+    "1a4b2af6-450c-5cda-8673-e9cf8cdfa38a": {
+      "id": "1a4b2af6-450c-5cda-8673-e9cf8cdfa38a",
       "children": [
-        "b3cb611c-abe6-5ff6-b34f-5bade2a120b4"
+        "3487775f-d485-5aac-8960-5eaf3cf849d3"
       ],
       "parent": null,
       "internal": {
@@ -1601,187 +1621,73 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/web-logo.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/web-logo.png",
       "relativePath": "web-logo.png",
       "extension": "png",
       "size": 25416,
       "prettySize": "25.4 kB",
-      "modifiedTime": "2019-04-13T01:55:26.000Z",
-      "accessTime": "2019-04-16T01:28:59.000Z",
-      "changeTime": "2019-04-13T01:55:26.000Z",
-      "birthTime": "2019-04-13T01:55:26.000Z",
+      "modifiedTime": "2019-04-12T14:05:10.000Z",
+      "accessTime": "2019-04-18T18:52:14.000Z",
+      "changeTime": "2019-04-12T15:38:42.000Z",
+      "birthTime": "2019-04-12T14:05:10.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "web-logo.png",
       "ext": ".png",
       "name": "web-logo",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33188,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8804670,
+      "ino": 12796692,
       "blocks": 56,
-      "atimeMs": 1555378139000,
-      "mtimeMs": 1555120526000,
-      "ctimeMs": 1555120526000,
-      "birthtimeMs": 1555120526000,
-      "atime": "2019-04-16T01:28:59.000Z",
-      "mtime": "2019-04-13T01:55:26.000Z",
-      "ctime": "2019-04-13T01:55:26.000Z",
-      "birthtime": "2019-04-13T01:55:26.000Z"
+      "atimeMs": 1555613534000,
+      "mtimeMs": 1555077910000,
+      "ctimeMs": 1555083522000,
+      "birthtimeMs": 1555077910000,
+      "atime": "2019-04-18T18:52:14.000Z",
+      "mtime": "2019-04-12T14:05:10.000Z",
+      "ctime": "2019-04-12T15:38:42.000Z",
+      "birthtime": "2019-04-12T14:05:10.000Z"
     },
-    "75d1e781-3076-5e0e-ac31-93466b93a582": {
-      "id": "75d1e781-3076-5e0e-ac31-93466b93a582",
+    "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8": {
+      "id": "6269cfd7-dbf1-5dc8-97bd-eee59dc248a8",
       "children": [],
-      "parent": "b481115e-7f5e-5fd8-8da7-015c99dc4181",
-      "internal": {
-        "contentDigest": "a8abb0b21cd1a5af83d5a11853c2e302",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb": {
-      "id": "70ed9e6d-737c-587b-98fa-b0ec7c71f2cb",
-      "children": [],
-      "parent": "8fa245a5-bb02-54d9-bc83-734a67607c25",
+      "parent": "5a4ee9e4-c06f-5f1a-83d2-05e57d8d1e8b",
       "internal": {
         "contentDigest": "dd525abc5ac8dc482cb6c43bc366d97b",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "1f65145b-20a5-5b25-8a83-145c576548fa": {
-      "id": "1f65145b-20a5-5b25-8a83-145c576548fa",
+    "8c381439-2eef-5c64-80c1-2d45bc7edc9a": {
+      "id": "8c381439-2eef-5c64-80c1-2d45bc7edc9a",
       "children": [],
-      "parent": "ade14eac-3a3c-5a1b-9e32-f1e10d34007a",
-      "internal": {
-        "contentDigest": "d61627254e09d6c22dc8a8f571f613b9",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "b0037951-0e04-51a6-b453-c82df5609072": {
-      "id": "b0037951-0e04-51a6-b453-c82df5609072",
-      "children": [],
-      "parent": "321a7e8a-deeb-5900-9bcf-c6a173a31f55",
+      "parent": "a247b52f-7ee5-5345-beff-07212e5280cb",
       "internal": {
         "contentDigest": "4ee8e772a826562b3da179d9edaf316d",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "b3cb611c-abe6-5ff6-b34f-5bade2a120b4": {
-      "id": "b3cb611c-abe6-5ff6-b34f-5bade2a120b4",
+    "3487775f-d485-5aac-8960-5eaf3cf849d3": {
+      "id": "3487775f-d485-5aac-8960-5eaf3cf849d3",
       "children": [],
-      "parent": "5e0442d4-4ca3-5074-b1e1-29092334f07d",
+      "parent": "1a4b2af6-450c-5cda-8673-e9cf8cdfa38a",
       "internal": {
         "contentDigest": "1c70df740cf76215a17c02420bc2597e",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "15709a7d-d903-5904-bafd-4d0c30aefb5e": {
-      "id": "15709a7d-d903-5904-bafd-4d0c30aefb5e",
+    "65b8f3a7-7d34-56f2-9c7c-b11de39089c2": {
+      "id": "65b8f3a7-7d34-56f2-9c7c-b11de39089c2",
       "children": [
-        "0f01c614-053f-5cf9-9b18-7d960cb69b1d"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/wallpaper2.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper2.jpg",
-      "relativePath": "wallpaper2.jpg",
-      "extension": "jpg",
-      "size": 119124,
-      "prettySize": "119 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "wallpaper2.jpg",
-      "ext": ".jpg",
-      "name": "wallpaper2",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8641604,
-      "blocks": 240,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
-    },
-    "62932958-420f-50e4-b975-92a16e99f5a2": {
-      "id": "62932958-420f-50e4-b975-92a16e99f5a2",
-      "children": [
-        "77fb53d7-4aaa-57f2-9cba-475cd1f70edc"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
-        "type": "File",
-        "mediaType": "image/jpeg",
-        "description": "File \"src/images/wallpaper3.jpg\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper3.jpg",
-      "relativePath": "wallpaper3.jpg",
-      "extension": "jpg",
-      "size": 129941,
-      "prettySize": "130 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:01.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
-      "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
-      "base": "wallpaper3.jpg",
-      "ext": ".jpg",
-      "name": "wallpaper3",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 8641605,
-      "blocks": 256,
-      "atimeMs": 1555378141000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:01.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
-    },
-    "af99e9d0-2339-5770-bfea-6f5a376ebf64": {
-      "id": "af99e9d0-2339-5770-bfea-6f5a376ebf64",
-      "children": [
-        "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1"
+        "e5db263e-5b8b-5540-9962-55169ef1bb68"
       ],
       "parent": null,
       "internal": {
@@ -1792,43 +1698,90 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper.jpg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper.jpg",
       "relativePath": "wallpaper.jpg",
       "extension": "jpg",
       "size": 96517,
       "prettySize": "96.5 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:29:00.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "wallpaper.jpg",
       "ext": ".jpg",
       "name": "wallpaper",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641603,
+      "ino": 12796688,
       "blocks": 192,
-      "atimeMs": 1555378140000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:29:00.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "f4685d00-b510-59ed-946f-fb196c255418": {
-      "id": "f4685d00-b510-59ed-946f-fb196c255418",
+    "41a396fd-2eeb-531f-8d31-f713062754e6": {
+      "id": "41a396fd-2eeb-531f-8d31-f713062754e6",
       "children": [
-        "a0ad256e-58aa-5278-8bdc-782cbc4b2266"
+        "71e4a996-543b-5f0f-91a8-9ae36176b42c"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper2.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper2.jpg",
+      "relativePath": "wallpaper2.jpg",
+      "extension": "jpg",
+      "size": 119124,
+      "prettySize": "119 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:16.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "wallpaper2.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper2",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796689,
+      "blocks": 240,
+      "atimeMs": 1555613536000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:16.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162": {
+      "id": "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162",
+      "children": [
+        "27223c65-c635-53a2-bb5c-e9b35bfc175a"
       ],
       "parent": null,
       "internal": {
@@ -1839,83 +1792,73 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/gatsby-astronaut.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/gatsby-astronaut.png",
       "relativePath": "gatsby-astronaut.png",
       "extension": "png",
       "size": 167273,
       "prettySize": "167 kB",
-      "modifiedTime": "2019-04-13T01:55:26.000Z",
-      "accessTime": "2019-04-16T01:30:24.000Z",
-      "changeTime": "2019-04-13T01:55:26.000Z",
-      "birthTime": "2019-04-13T01:55:26.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:13.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "gatsby-astronaut.png",
       "ext": ".png",
       "name": "gatsby-astronaut",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8804667,
+      "ino": 12796676,
       "blocks": 328,
-      "atimeMs": 1555378224000,
-      "mtimeMs": 1555120526000,
-      "ctimeMs": 1555120526000,
-      "birthtimeMs": 1555120526000,
-      "atime": "2019-04-16T01:30:24.000Z",
-      "mtime": "2019-04-13T01:55:26.000Z",
-      "ctime": "2019-04-13T01:55:26.000Z",
-      "birthtime": "2019-04-13T01:55:26.000Z"
+      "atimeMs": 1555613533000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:13.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "0f01c614-053f-5cf9-9b18-7d960cb69b1d": {
-      "id": "0f01c614-053f-5cf9-9b18-7d960cb69b1d",
+    "e5db263e-5b8b-5540-9962-55169ef1bb68": {
+      "id": "e5db263e-5b8b-5540-9962-55169ef1bb68",
       "children": [],
-      "parent": "15709a7d-d903-5904-bafd-4d0c30aefb5e",
-      "internal": {
-        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "77fb53d7-4aaa-57f2-9cba-475cd1f70edc": {
-      "id": "77fb53d7-4aaa-57f2-9cba-475cd1f70edc",
-      "children": [],
-      "parent": "62932958-420f-50e4-b975-92a16e99f5a2",
-      "internal": {
-        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1": {
-      "id": "0239ce63-9d0e-5c14-9ed0-d95ce061c9c1",
-      "children": [],
-      "parent": "af99e9d0-2339-5770-bfea-6f5a376ebf64",
+      "parent": "65b8f3a7-7d34-56f2-9c7c-b11de39089c2",
       "internal": {
         "contentDigest": "d737c672cf7193dbf709b825ea681376",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "a0ad256e-58aa-5278-8bdc-782cbc4b2266": {
-      "id": "a0ad256e-58aa-5278-8bdc-782cbc4b2266",
+    "71e4a996-543b-5f0f-91a8-9ae36176b42c": {
+      "id": "71e4a996-543b-5f0f-91a8-9ae36176b42c",
       "children": [],
-      "parent": "f4685d00-b510-59ed-946f-fb196c255418",
+      "parent": "41a396fd-2eeb-531f-8d31-f713062754e6",
+      "internal": {
+        "contentDigest": "50ab8e7c6285c1faf7b9622e76651892",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "27223c65-c635-53a2-bb5c-e9b35bfc175a": {
+      "id": "27223c65-c635-53a2-bb5c-e9b35bfc175a",
+      "children": [],
+      "parent": "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162",
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "fef20b83-3386-547b-b75c-adc1503045dc": {
-      "id": "fef20b83-3386-547b-b75c-adc1503045dc",
+    "5ba8409e-2adf-5692-b5fd-5c623919c7c9": {
+      "id": "5ba8409e-2adf-5692-b5fd-5c623919c7c9",
       "children": [
-        "00808bad-9b94-50ee-8e4a-e4183cbf4ee3"
+        "64ced732-767a-541e-9e6b-665dc8bd4133"
       ],
       "parent": null,
       "internal": {
@@ -1926,43 +1869,43 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/logo-shannon.png",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/logo-shannon.png",
       "relativePath": "logo-shannon.png",
       "extension": "png",
       "size": 136879,
       "prettySize": "137 kB",
-      "modifiedTime": "2019-04-13T01:55:26.000Z",
-      "accessTime": "2019-04-16T01:29:01.000Z",
-      "changeTime": "2019-04-13T01:55:26.000Z",
-      "birthTime": "2019-04-13T01:55:26.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:17.000Z",
+      "changeTime": "2019-04-12T15:38:41.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "logo-shannon.png",
       "ext": ".png",
       "name": "logo-shannon",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8804668,
+      "ino": 12796682,
       "blocks": 272,
-      "atimeMs": 1555378141000,
-      "mtimeMs": 1555120526000,
-      "ctimeMs": 1555120526000,
-      "birthtimeMs": 1555120526000,
-      "atime": "2019-04-16T01:29:01.000Z",
-      "mtime": "2019-04-13T01:55:26.000Z",
-      "ctime": "2019-04-13T01:55:26.000Z",
-      "birthtime": "2019-04-13T01:55:26.000Z"
+      "atimeMs": 1555613537000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083521000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:17.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:41.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "c330d51c-761f-52e0-977b-88f2c8abf833": {
-      "id": "c330d51c-761f-52e0-977b-88f2c8abf833",
+    "3160025b-d227-51a9-9273-c9cb368263e5": {
+      "id": "3160025b-d227-51a9-9273-c9cb368263e5",
       "children": [
-        "b1148c76-fabf-508e-aaa9-62e1beae1351"
+        "dbe7d253-e6a2-5c7e-b61a-d62f4d80d447"
       ],
       "parent": null,
       "internal": {
@@ -1973,63 +1916,120 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/wallpaper4.jpg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper4.jpg",
       "relativePath": "wallpaper4.jpg",
       "extension": "jpg",
       "size": 148370,
       "prettySize": "148 kB",
-      "modifiedTime": "2019-03-24T20:30:13.000Z",
-      "accessTime": "2019-04-16T01:28:58.000Z",
-      "changeTime": "2019-04-11T01:02:18.000Z",
-      "birthTime": "2019-03-24T20:30:13.000Z",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:13.000Z",
+      "changeTime": "2019-04-12T15:38:42.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "wallpaper4.jpg",
       "ext": ".jpg",
       "name": "wallpaper4",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33261,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8641606,
+      "ino": 12796691,
       "blocks": 296,
-      "atimeMs": 1555378138000,
-      "mtimeMs": 1553459413000,
-      "ctimeMs": 1554944538000,
-      "birthtimeMs": 1553459413000,
-      "atime": "2019-04-16T01:28:58.000Z",
-      "mtime": "2019-03-24T20:30:13.000Z",
-      "ctime": "2019-04-11T01:02:18.000Z",
-      "birthtime": "2019-03-24T20:30:13.000Z"
+      "atimeMs": 1555613533000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083522000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:13.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:42.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
     },
-    "00808bad-9b94-50ee-8e4a-e4183cbf4ee3": {
-      "id": "00808bad-9b94-50ee-8e4a-e4183cbf4ee3",
+    "2a31aafe-a24e-5a53-bb8f-5b89afb65caa": {
+      "id": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
+      "children": [
+        "f1dda704-f3eb-5169-a358-a01ee8526545"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/wallpaper3.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/wallpaper3.jpg",
+      "relativePath": "wallpaper3.jpg",
+      "extension": "jpg",
+      "size": 129941,
+      "prettySize": "130 kB",
+      "modifiedTime": "2019-04-11T19:48:32.000Z",
+      "accessTime": "2019-04-18T18:52:17.000Z",
+      "changeTime": "2019-04-12T15:38:42.000Z",
+      "birthTime": "2019-04-11T19:48:32.000Z",
+      "root": "/",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
+      "base": "wallpaper3.jpg",
+      "ext": ".jpg",
+      "name": "wallpaper3",
+      "relativeDirectory": "",
+      "dev": 16777224,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 502,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 12796690,
+      "blocks": 256,
+      "atimeMs": 1555613537000,
+      "mtimeMs": 1555012112000,
+      "ctimeMs": 1555083522000,
+      "birthtimeMs": 1555012112000,
+      "atime": "2019-04-18T18:52:17.000Z",
+      "mtime": "2019-04-11T19:48:32.000Z",
+      "ctime": "2019-04-12T15:38:42.000Z",
+      "birthtime": "2019-04-11T19:48:32.000Z"
+    },
+    "64ced732-767a-541e-9e6b-665dc8bd4133": {
+      "id": "64ced732-767a-541e-9e6b-665dc8bd4133",
       "children": [],
-      "parent": "fef20b83-3386-547b-b75c-adc1503045dc",
+      "parent": "5ba8409e-2adf-5692-b5fd-5c623919c7c9",
       "internal": {
         "contentDigest": "bbdd987ad8cd4dd28f51d0ef15b9eb02",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "b1148c76-fabf-508e-aaa9-62e1beae1351": {
-      "id": "b1148c76-fabf-508e-aaa9-62e1beae1351",
+    "dbe7d253-e6a2-5c7e-b61a-d62f4d80d447": {
+      "id": "dbe7d253-e6a2-5c7e-b61a-d62f4d80d447",
       "children": [],
-      "parent": "c330d51c-761f-52e0-977b-88f2c8abf833",
+      "parent": "3160025b-d227-51a9-9273-c9cb368263e5",
       "internal": {
         "contentDigest": "576eaabc2d1c0df2d4cdc7127a9e7626",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "577ebfc3-2615-58a8-bbf3-554395ad64e2": {
-      "id": "577ebfc3-2615-58a8-bbf3-554395ad64e2",
+    "f1dda704-f3eb-5169-a358-a01ee8526545": {
+      "id": "f1dda704-f3eb-5169-a358-a01ee8526545",
+      "children": [],
+      "parent": "2a31aafe-a24e-5a53-bb8f-5b89afb65caa",
+      "internal": {
+        "contentDigest": "accb270e2c93ddb80ca67db6011ea780",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "347e2838-365f-59cb-8596-bfdbaf11c056": {
+      "id": "347e2838-365f-59cb-8596-bfdbaf11c056",
       "children": [
-        "432e5067-2e52-5cc6-be06-23e514db73e7"
+        "6d990c4d-df98-544f-bb2e-ea1ea453e73d"
       ],
       "parent": null,
       "internal": {
@@ -2040,43 +2040,43 @@
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "images",
-      "absolutePath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images/me.jpg",
+      "absolutePath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images/me.jpg",
       "relativePath": "me.jpg",
       "extension": "jpg",
       "size": 372544,
       "prettySize": "373 kB",
-      "modifiedTime": "2019-04-17T22:09:51.000Z",
-      "accessTime": "2019-04-17T22:10:56.000Z",
-      "changeTime": "2019-04-17T22:09:51.000Z",
-      "birthTime": "2019-04-17T22:09:51.000Z",
+      "modifiedTime": "2019-04-19T13:56:55.000Z",
+      "accessTime": "2019-04-19T13:56:58.000Z",
+      "changeTime": "2019-04-19T13:56:55.000Z",
+      "birthTime": "2019-04-19T13:56:55.000Z",
       "root": "/",
-      "dir": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/images",
+      "dir": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/images",
       "base": "me.jpg",
       "ext": ".jpg",
       "name": "me",
       "relativeDirectory": "",
-      "dev": 16777220,
+      "dev": 16777224,
       "mode": 33188,
       "nlink": 1,
-      "uid": 501,
+      "uid": 502,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 8832217,
+      "ino": 12946024,
       "blocks": 728,
-      "atimeMs": 1555539056000,
-      "mtimeMs": 1555538991000,
-      "ctimeMs": 1555538991000,
-      "birthtimeMs": 1555538991000,
-      "atime": "2019-04-17T22:10:56.000Z",
-      "mtime": "2019-04-17T22:09:51.000Z",
-      "ctime": "2019-04-17T22:09:51.000Z",
-      "birthtime": "2019-04-17T22:09:51.000Z"
+      "atimeMs": 1555682218000,
+      "mtimeMs": 1555682215000,
+      "ctimeMs": 1555682215000,
+      "birthtimeMs": 1555682215000,
+      "atime": "2019-04-19T13:56:58.000Z",
+      "mtime": "2019-04-19T13:56:55.000Z",
+      "ctime": "2019-04-19T13:56:55.000Z",
+      "birthtime": "2019-04-19T13:56:55.000Z"
     },
-    "432e5067-2e52-5cc6-be06-23e514db73e7": {
-      "id": "432e5067-2e52-5cc6-be06-23e514db73e7",
+    "6d990c4d-df98-544f-bb2e-ea1ea453e73d": {
+      "id": "6d990c4d-df98-544f-bb2e-ea1ea453e73d",
       "children": [],
-      "parent": "577ebfc3-2615-58a8-bbf3-554395ad64e2",
+      "parent": "347e2838-365f-59cb-8596-bfdbaf11c056",
       "internal": {
         "contentDigest": "d473cb8b62286e854dc0e4674b7f3b79",
         "type": "ImageSharp",
@@ -2087,20 +2087,20 @@
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
       "path": "/404/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "pluginCreator___NODE": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "pluginCreatorId": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js",
       "id": "SitePage /404/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "45e128691788f2b6c5407d7db908d675",
-        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "contentDigest": "e1691793c61d1f4897704c1f807a68d3",
+        "description": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2108,20 +2108,20 @@
       "jsonName": "about-f34",
       "internalComponentName": "ComponentAbout",
       "path": "/about/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/about.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/about.js",
       "componentChunkName": "component---src-pages-about-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/about.js",
+      "pluginCreator___NODE": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "pluginCreatorId": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/about.js",
       "id": "SitePage /about/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "709a3834fa601b19aeeab88af5d5676d",
-        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "contentDigest": "6d38d269abc704d372b18f409bcce76d",
+        "description": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2129,20 +2129,20 @@
       "jsonName": "index",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js",
+      "pluginCreator___NODE": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "pluginCreatorId": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/index.js",
       "id": "SitePage /",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "6b5530b16f9dba886960bf38342ca4e1",
-        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "contentDigest": "a6c91c00472867ce5dab46b04fb50cc6",
+        "description": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2150,20 +2150,20 @@
       "jsonName": "more-d72",
       "internalComponentName": "ComponentMore",
       "path": "/more/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/more.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/more.js",
       "componentChunkName": "component---src-pages-more-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/more.js",
+      "pluginCreator___NODE": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "pluginCreatorId": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/more.js",
       "id": "SitePage /more/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "227a08a3b57bcc8131eacdd37a664d97",
-        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "contentDigest": "07ddcc479f74a685856089351ef068be",
+        "description": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2171,20 +2171,20 @@
       "jsonName": "poo-sketch-a2c",
       "internalComponentName": "ComponentPooSketch",
       "path": "/poo/sketch/",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/poo/sketch.js",
       "componentChunkName": "component---src-pages-poo-sketch-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
-      "pluginCreator___NODE": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "pluginCreatorId": "236a1825-0670-5652-bd83-f7102fb01bb0",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js",
+      "pluginCreator___NODE": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "pluginCreatorId": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/poo/sketch.js",
       "id": "SitePage /poo/sketch/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e2f98bc1fe4cfa104ec3e060af90d4ce",
-        "description": "236a1825-0670-5652-bd83-f7102fb01bb0",
+        "contentDigest": "bfdf2ec9672cdfb74e82e44473e9fd85",
+        "description": "93b70437-cf82-5a4c-82d5-6b521ca5fd4f",
         "owner": "internal-data-bridge"
       }
     },
@@ -2192,19 +2192,19 @@
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
       "path": "/404.html",
-      "component": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "component": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "isCreatedByStatefulCreatePages": true,
       "context": {},
       "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
       "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js",
       "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c1b3fed32fb17c7a8461f77040be1dc8",
+        "contentDigest": "052c8176bd5e858da3e0a03247d5729f",
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
@@ -2220,14 +2220,14 @@
         "sq--src-components-layout-js",
         "sq--src-components-seo-js"
       ],
-      "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162": [],
-      "27223c65-c635-53a2-bb5c-e9b35bfc175a": [],
-      "f4685d00-b510-59ed-946f-fb196c255418": [
+      "1d01b1c4-0ffb-5819-ae6a-9b49dd04f162": [
         "sq--src-components-image-js"
       ],
-      "a0ad256e-58aa-5278-8bdc-782cbc4b2266": [
+      "27223c65-c635-53a2-bb5c-e9b35bfc175a": [
         "sq--src-components-image-js"
-      ]
+      ],
+      "f4685d00-b510-59ed-946f-fb196c255418": [],
+      "a0ad256e-58aa-5278-8bdc-782cbc4b2266": []
     },
     "connections": {}
   },
@@ -2245,54 +2245,54 @@
     "more-d72": "200/path---more-d-72-57c-0SUcWyAf8ecbYDsMhQkEfPzV8"
   },
   "components": {
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/.cache/dev-404-page.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/.cache/dev-404-page.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/.cache/dev-404-page.js"
     },
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/404.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/404.js"
     },
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/about.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/about.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/about.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/about.js"
     },
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/index.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/index.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/index.js"
     },
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/more.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/more.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/more.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/more.js"
     },
-    "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js": {
+    "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/poo/sketch.js": {
       "query": "",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/pages/poo/sketch.js"
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/pages/poo/sketch.js"
     }
   },
   "staticQueryComponents": {
     "sq--src-components-image-js": {
-      "name": "usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsImageJs2011440971",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/image.js",
+      "name": "usersShannonkohDesktopZShannonMyPortfolioSrcComponentsImageJs2011440971",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/image.js",
       "id": "sq--src-components-image-js",
       "jsonName": "sq--src-components-image-js",
-      "query": "query usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "query": "query usersShannonkohDesktopZShannonMyPortfolioSrcComponentsImageJs2011440971 {\n  placeholderImage: file(relativePath: {eq: \"gatsby-astronaut.png\"}) {\n    childImageSharp {\n      fluid(maxWidth: 300) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "hash": 2011440971
     },
     "sq--src-components-layout-js": {
       "name": "SiteTitleQuery",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/layout.js",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/layout.js",
       "id": "sq--src-components-layout-js",
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
       "hash": 755544856
     },
     "sq--src-components-seo-js": {
-      "name": "usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsSeoJs2417117884",
-      "componentPath": "/Users/shannonkoh/Desktop/shannon koh/coding/my-portfolio/src/components/seo.js",
+      "name": "usersShannonkohDesktopZShannonMyPortfolioSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/shannonkoh/Desktop/z. shannon/my-portfolio/src/components/seo.js",
       "id": "sq--src-components-seo-js",
       "jsonName": "sq--src-components-seo-js",
-      "query": "query usersShannonkohDesktopShannonKohCodingMyPortfolioSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "query": "query usersShannonkohDesktopZShannonMyPortfolioSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
       "hash": 2417117884
     }
   }

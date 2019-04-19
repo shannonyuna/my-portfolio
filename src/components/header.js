@@ -1,6 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
-import './Header.css'
+import './HeaderFooter.css'
 // import StripeCheckout from 'react-stripe-checkout'
 
 
