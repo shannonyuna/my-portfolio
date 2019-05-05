@@ -1,100 +1,71 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Card from "../components/card";
-import Section from "../components/Section";
-import Wave from "../components/Wave";
-import staticdata from '../../staticdata.json'
-import Cell from "../components/Cell";
 import styled from 'styled-components'
+import AboutMe from "../components/AboutMe"
 
-const SectionCaption = styled.p`
-  font-weight: 600;
-  font-size: 18px;
-  text-tranform: uppercase;
-  color: #94A4BA;
-  text-align: center;
-`
 
-const SectionCellGroup = styled.p`
-  max-width: 800px;
-  margin: 0 auto 100px;
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-column-gap: 20px;
-  padding: 0 20px;
- 
-  @media (max-width: 800px){
-    grid-template-columns: repeat(1,1fr)
+const AboutListBg = styled.div`
+  margin: 0px 0px 0px 150px;
+  width: 600px;
+  height: 800px;
+  box-shadow: rgba(0,0,0,0.06) 0px 2px 4px 0px;
+  border: 1px solid rgba(0,0,0, 0.3);
+  border-radius: 3px;
+  color: rgba(72,72,72);
+
+  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+  &:hover{
+      transform: scale(1.05,1.05);
+      box-shadow: 0 30px 60px rgba(0,0,0,0.25)
+  }
+  .ExperienceContent{
+    height: 580px;
+  }
+  .EducationContent{
+    height: 740px;
+  }
+
+  @media (max-width: 992px){
+    margin: auto 0px;    
+    
+    .ExperienceContent{
+      height: 690px;   
+    }
+    .EducationContent{
+      height:770px;
+    }  
+  }
+  @media (max-width: 640px){
+    width: 350px; 
+    
+    .ExperienceContent{
+      height: 660px;   
+    }
+    .EducationContent{
+      height:770px;
+    }  
   }
 `
 
-const IndexPage = () => (
+const HomePage = () => (
   <Layout>
-    <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
-    <div className="Hero">
-      <div className="HeroGroup">
-        <h1>Learn to <br /> design and code React apps </h1>
-        <p>Complete courses about the best tools and design systems. Prototype and build apps with React and Swift.</p>
-        <p>Now go build something great.</p>
-        <Link to="/page-2/">Go to poopee</Link>
-
-        <div className="Logos">
-          <img src={require('../images/logo-sketch.png')} width="50" alt=""  />
-          <img src={require('../images/logo-figma.png')} width="50"  alt="" />
-          <img src={require('../images/logo-studio.png')} width="50"  alt="" />
-          <img src={require('../images/logo-framer.png')} width="50"  alt="" />
-          <img src={require('../images/logo-react.png')} width="50"  alt="" />
-          <img src={require('../images/logo-swift.png')} width="50"  alt="" />
-        </div>
-        <Wave />
+    <SEO title="Home" />
+    <div className = "AboutMe">
+    <div className= "AboutExpLayout">
+      <div className="ExperienceBox">
+        <AboutListBg>
+        </AboutListBg>
       </div>
+      <div className = "AboutLabel">
+      <AboutMe   
+      title="Customizing Kiosk"
+      text="Software UI/UX" />
+      </div>  
     </div>
-    <div className="Cards">
-      <h2>11 courses, more coming</h2>
-      <div className="CardGroup">
-        <Card 
-        title="React for Designers"
-        text="12 sections"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <Card 
-        title="React for Designers"
-        text="12 sections"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <Card 
-        title="React for Designers"
-        text="12 sections"
-        image={require('../images/wallpaper.jpg')}
-        />
-        <Card 
-        title="React for Designers"
-        text="12 sections"
-        image={require('../images/wallpaper.jpg')}
-        />
-      </div>
-    </div>
-
-    <Section
-      image={require('../images/wallpaper2.jpg')}
-      logo={require('../images/logo-react.png')}
-      title="React for Designers"
-      text="Learn how to build a modern site using React and the most efficient libraries to get your site/product online. Get familiar with components, Grid CSS, animations, interactions, dynamic data with Contentful and deploying your site with Netlify." />
-
-
-    <SectionCaption>12 sections - 5 hours</SectionCaption>
-    <SectionCellGroup>
-        {staticdata.cells.map(cell => (
-        <Cell 
-          title= {cell.title}
-          image= {cell.image}
-        />
-        ))}
-    </SectionCellGroup>
+  </div>
   </Layout>
 )
 
-export default IndexPage
 
+export default HomePage
