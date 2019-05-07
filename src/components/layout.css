@@ -29,6 +29,22 @@ h3{
   font-size: 18px;
 }
 
+.Home{
+  position:relative;
+  height: 100px;
+  opacity: 0;
+  animation: HeroAnimation;
+  animation-duration: 3s;
+  animation-delay: 0.2s;
+  animation-fill-mode: forwards;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
+}
+
+.Project{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+}
 
 .Hero {
   background: url('../images/wallpaper3.jpg');

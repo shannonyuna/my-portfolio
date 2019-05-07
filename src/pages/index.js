@@ -2,13 +2,12 @@ import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import styled from 'styled-components'
-import AboutMe from "../components/AboutMe"
+import Title from "../components/Title"
 
 
-const AboutListBg = styled.div`
-  margin: 0px 0px 0px 150px;
+const ProjectImg = styled.div`
   width: 600px;
-  height: 800px;
+  height: 700px;
   box-shadow: rgba(0,0,0,0.06) 0px 2px 4px 0px;
   border: 1px solid rgba(0,0,0, 0.3);
   border-radius: 3px;
@@ -51,19 +50,18 @@ const AboutListBg = styled.div`
 const HomePage = () => (
   <Layout>
     <SEO title="Home" />
-    <div className = "AboutMe">
-    <div className= "AboutExpLayout">
-      <div className="ExperienceBox">
-        <AboutListBg>
-        </AboutListBg>
-      </div>
-      <div className = "AboutLabel">
-      <AboutMe   
+    <div className="Home">
+    </div>
+    <div className = "Project">
+    <ProjectImg>
+    </ProjectImg>
+    <div className = "AboutLabel">
+    <Title   
       title="Customizing Kiosk"
       text="Software UI/UX" />
-      </div>  
+    </div>  
     </div>
-  </div>
+
   </Layout>
 )
 

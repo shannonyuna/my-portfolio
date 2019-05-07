@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import staticdata from '../../staticdata.json'
 import styled from 'styled-components'
-import AboutMe from "../components/AboutMe"
+import Title from "../components/Title"
 import AboutDetail from "../components/AboutDetail"
 import AboutExp from "../components/AboutExp"
 import AboutEdu from "../components/AboutEdu"
@@ -71,7 +71,7 @@ const AboutPage = () => (
       <img src={require('../images/me.jpg')} alt="" />
     </div>
     <div className = "AboutLabel">
-    <AboutMe   
+    <Title   
       title="Shannon Yuna Koh"
       text="UX/UI Designer" />
     </div>  

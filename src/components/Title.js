@@ -43,7 +43,7 @@ const BlackLine =  styled.div`
   }
 `
 
-const AboutMe = props =>(
+const Title = props =>(
     <SectionGroup>
         <BlackLine></BlackLine>
         <SectionTitle>{props.title}</SectionTitle>
@@ -51,4 +51,4 @@ const AboutMe = props =>(
     </SectionGroup>
 )
 
-export default AboutMe
+export default Title
