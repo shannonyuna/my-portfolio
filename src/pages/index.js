@@ -6,8 +6,8 @@ import Title from "../components/Title"
 
 
 const ProjectImg = styled.div`
-  width: 600px;
-  height: 700px;
+  width: 500px;
+  height: 650px;
   box-shadow: rgba(0,0,0,0.06) 0px 2px 4px 0px;
   border: 1px solid rgba(0,0,0, 0.3);
   border-radius: 3px;
@@ -50,13 +50,11 @@ const ProjectImg = styled.div`
 const HomePage = () => (
   <Layout>
     <SEO title="Home" />
-    <div className="Home">
-    </div>
     <div className = "Project">
-    <ProjectImg>
+    <ProjectImg className ="ProjectImg">
     </ProjectImg>
     <div className = "AboutLabel">
-    <Title   
+    <Title className ="Title" 
       title="Customizing Kiosk"
       text="Software UI/UX" />
     </div>  

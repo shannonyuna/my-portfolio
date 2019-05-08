@@ -2,7 +2,12 @@ import React from 'react'
 import styled from 'styled-components'
 
 const SectionGroup = styled.div`
-  transition: 1s cubic-bezier(0.2, 0.8, 0.2, 1);
+    opacity: 0;
+    animation: HeroAnimation;
+    animation-duration: 2s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+    animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1); 
     &:hover{
         transform: translateX(40px)
     };

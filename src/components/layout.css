@@ -29,21 +29,20 @@ h3{
   font-size: 18px;
 }
 
-.Home{
-  position:relative;
-  height: 100px;
+.Project{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  padding: 180px 0px 180px 0px;
+}
+
+.ProjectImg{
   opacity: 0;
   animation: HeroAnimation;
   animation-duration: 3s;
   animation-delay: 0.2s;
   animation-fill-mode: forwards;
-  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);
-}
-
-.Project{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  justify-items: center;
+  animation-timing-function: cubic-bezier(0.2, 0.8, 0.2, 1);  
 }
 
 .Hero {
